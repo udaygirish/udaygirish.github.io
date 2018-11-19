@@ -1,0 +1,229 @@
+body {
+  background: repeating-linear-gradient(135deg, #eee 0, #eee 5%, #f8f8f8 0, #f8f8f8 50%) 0/20px 20px;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 14px;
+  color: #333;
+  margin: 0;
+  padding: 0;
+  -webkit-text-size-adjust: 100%;
+  -webkit-font-smoothing: antialiased;
+}
+
+ul {
+  margin-bottom: 0;
+}
+
+li {
+  margin-bottom: 2px;
+  list-style-type: square;
+  > ul li {
+    list-style-type: disc;
+    &:last-child {
+      margin-bottom: 10px;
+    }
+  }
+}
+
+a {
+  text-decoration: none;
+  color: #069;
+  word-wrap: break-word;
+  border: 0;
+  &:hover {
+    border-bottom: 1px solid #069;
+  }
+}
+
+code {
+  font-family: Consolas, monaco, monospace;
+}
+
+.resume-title {
+  text-align: center;
+  color: #ddd;
+  margin: 0 0 60px 0;
+}
+
+#resume {
+  margin: 80px auto;
+  max-width: 800px;
+  padding: 80px;
+  background: #fff;
+  border-radius: 5px;
+  box-shadow: 0 5px 10px 0 rgba(69, 129, 208, 0.12);
+}
+
+#avatarBlock {
+  width: 150px;
+  max-height: 100px;
+  float: left;
+}
+
+#infoBlock {
+  margin-left: 151px;
+  min-height: 110px;
+}
+
+.largeFont {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.smallFont {
+  font-size: 12px;
+}
+
+.alias {
+  font-size: 14px;
+}
+
+.sectionName {
+  width: 150px;
+  vertical-align: top;
+  display: block;
+  position: absolute;
+  margin-bottom: 10px;
+  color: #aaa;
+}
+
+.sectionContent {
+  width: auto;
+  margin-left: 151px;
+  vertical-align: top;
+  display: block;
+  margin-bottom: 20px;
+  text-align: justify;
+  ul {
+    padding-left: 20px;
+    margin-top: 6px;
+  }
+  .title {
+    font-weight: bold;
+  }
+  .date {
+    display: block;
+    font-family: Consolas, monaco, monospace;
+  }
+  .company {
+    color: #f14e32;
+  }
+  .separator {
+    height: 14px;
+  }
+  .first-sentence {
+    font-family: 'Electrolize', sans-serif;
+    text-transform: uppercase;
+    font-size: 90%;
+  }
+}
+
+.sectionLine {
+  border-style: solid;
+  border-width: 1px;
+  border-color: #f3f3f3;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.divider {
+  font-weight: bold;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.skillBlock {
+  margin-bottom: 4px;
+  display: block;
+}
+
+.cert li {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.colophon {
+  margin-top: 50px;
+  color: #999;
+  font-size: 0.8em;
+  letter-spacing: 1px;
+}
+
+.colophon-mark {
+  width: 30px;
+  border-top: 1px solid #999;
+  margin-bottom: 5px;
+  display: block;
+}
+
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
+  body {
+    background: #fff;
+  }
+  #resume {
+    margin: 0 auto;
+  }
+}
+
+@media only screen and (max-width: 40em) {
+  body {
+    margin: 0;
+    font-size: 14px;
+  }
+  .resume-title {
+    font-size: 60px;
+  }
+  #resume {
+    margin: 0 auto;
+    max-width: 800px;
+    padding: 0.5em 1em;
+    border: none;
+  }
+  .sectionContent {
+    width: auto;
+    margin-left: 0;
+  }
+  .sectionName {
+    width: auto;
+    position: relative;
+    text-align: center;
+  }
+  .largeFont {
+    font-size: 20px;
+  }
+  .smallFont {
+    font-size: 14px;
+  }
+  #avatarBlock {
+    float: none;
+    display: block;
+    text-align: center;
+    width: auto;
+    margin-bottom: 5px;
+  }
+  #infoBlock {
+    margin-left: 0;
+    text-align: center;
+  }
+}
+
+@media print {
+  #resume {
+    margin: 0 auto;
+    max-width: 800px;
+    padding: 0px 0px;
+    border: 0px;
+    background: #fff;
+    box-shadow: none;
+    -webkit-box-shadow: none;
+    font-size: 12px;
+  }
+  .colophon {
+    display: none;
+  }
+  .sectionName {
+    width: 99px;
+  }
+  .sectionContent, #infoBlock {
+    margin-left: 100px;
+  }
+}
