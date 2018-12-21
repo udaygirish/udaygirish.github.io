@@ -1,2 +1,2 @@
 # udaygirish.github.io
-## My profile page with my social links and bio.
+## My profile page with social links and bio.
