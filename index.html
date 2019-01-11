@@ -6,7 +6,9 @@
     <link href="https://fonts.googleapis.com/css?family=Open+Sans|Roboto" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     </head>
-    <body>
+    <body onload="myFunction()" style="margin:0;">
+        <div id="loader"></div>
+    <div style="display:none;" id="myDiv" class="animate-bottom">
     <div class="wrapper">
     <div class="left">
     <img class="profile-picture"src="img/prof.webp" width="300"/>
@@ -48,6 +50,21 @@ I'm a Mechanical Engineering undergraduate student, interested in robotics and h
         </ul>
     </div>
     </div>
+    </div>
+        
+    <script>
+var myVar;
+
+function myFunction() {
+  myVar = setTimeout(showPage, 3000);
+}
+
+function showPage() {
+  document.getElementById("loader").style.display = "none";
+  document.getElementById("myDiv").style.display = "block";
+}
+</script>
+
         
     </body>
 </html>
