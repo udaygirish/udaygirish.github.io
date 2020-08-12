@@ -5,7 +5,7 @@ permalink: /about/
 weight: 3
 ---
 
-# **About Me**
+# **About Myself**
 
 Hi I am **{{ site.author.name }}** :wave:,<br>
 

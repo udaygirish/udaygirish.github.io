@@ -1,18 +1,29 @@
 - title: Student, B.Tech in Mechanical Engineering, NITC
-  from: 2015
-  to: 2019
+  from: Jun 2015
+  to: May 2019
   description: Undergraduation in Mechanical Engineering from NIT Calicut. Core learnings include
                 Dynamics, Robotics, Control Systems, Thermal and Fluid Dynamics and other learnings
                 include Neural Networks, Image Processing.
-
+                
+                
+                
 - title: Machine Learning Intern, Storilabs, Kozhikode
-  from: Jun,2019
-  to: Sep,2019
+  from: Jun 2019
+  to: Sep 2019
   description: ML Engineering with primary focus on developing comptuer vision solutions for video surveillance
                 with Edge based hybrid architecture.
                 
+                
+                
+- title: Member - Robotics Interest Group, NITC , Kozhikode
+  from: April 2016
+  to: May 2019
+  description: Robotics interest group is a college club with a bunch of people who are crazy about Robotics.
+               Here I have worked on Drones, Autonomous Systems, Human Interactive and Swarm Robotics.
+               As a part of this club I have conducted different workshops and attended national level robotics competitions.
+                
 - title: Machine Learning Engineer, Quantiphi, Bangalore
-  from: 2019
+  from: May 2019
   to: present
   description: ML Engineering with primary focus on developing comptuer vision solutions for Business 
                 use cases.
