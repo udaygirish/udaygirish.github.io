@@ -7,9 +7,10 @@ weight: 3
 
 # **About Me**
 
-Hi I am **{{ site.author.name }}** :wave:,<br>
+Hi I am **{{ site.author.name }}** :wave:,
 I work as Machine Learning Engineer at Quantiphi Bangalore. Most of my work is related to Computer Vision , NLP and Robotics. 
-</br>
+
+
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
 {% include about/skills.html title="Other Skills" source=site.data.other-skills %}
