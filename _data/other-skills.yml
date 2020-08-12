@@ -1,7 +1,47 @@
-- name: Adobe Photoshop
-  percentage: 95
+- name: SolidWorks
+  percentage: 70
   color: info
 
-- name: Adobe Illustrator
-  percentage: 90
+- name: Ansys
+  percentage: 60
   color: success
+  
+- name: Catia
+  percentage: 40
+  color: info
+
+- name: Design & Analysis
+  percentage: 60
+  color: success
+  
+- name: Matlab
+  percentage: 70
+  color: info
+
+- name: CREO
+  percentage: 50
+  color: success
+  
+- name: Proteus
+  percentage: 40
+  color: info
+
+- name: MasterCam
+  percentage: 50
+  color: success
+  
+- name: FluidSim
+  percentage: 90
+  color: info
+
+- name: Research
+  percentage: 70
+  color: success
+  
+- name: MS Office
+  percentage: 70
+  color: info
+
+- name: Project Management
+  percentage: 70
+  color: info

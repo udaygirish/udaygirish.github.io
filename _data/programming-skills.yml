@@ -9,3 +9,103 @@
 - name: Tensorflow
   percentage: 70
   color: dark
+
+- name: Pytorch
+  percentage: 60
+  color: dark
+
+- name: ROS
+  percentage: 60
+  color:
+
+- name: OpenCV
+  percentage: 75
+  color: dark
+  
+- name: HTML
+  percentage: 70
+  color: danger
+
+- name: SQL
+  percentage: 70
+  color:
+
+- name: R
+  percentage: 50
+  color: dark
+
+- name: Cloud Computing
+  percentage: 80
+  color: dark
+
+- name: GCP
+  percentage: 90
+  color:
+
+- name: AWS
+  percentage: 80
+  color: dark
+  
+- name: Machine Learning
+  percentage: 80
+  color: danger
+
+- name: Deep Learning
+  percentage: 80
+  color:
+
+- name: Computer Vision
+  percentage: 80
+  color: dark
+
+- name: NLP
+  percentage: 60
+  color: dark
+
+- name: Robotics
+  percentage: 80
+  color:
+
+- name: IOT
+  percentage: 75
+  color: dark
+
+- name: Edge Computing
+  percentage: 80
+  color:
+
+- name: Computer Vision
+  percentage: 80
+  color: dark
+
+- name: Network Security
+  percentage: 60
+  color: dark
+
+- name: Scikit-Learn
+  percentage: 80
+  color:
+
+- name: Matplotlib& Visualisations
+  percentage: 75
+  color: dark
+
+- name: Github
+  percentage: 80
+  color:
+
+- name: Jenkins
+  percentage: 70
+  color: dark
+
+- name: CUDA
+  percentage: 60
+  color: dark
+
+- name: TFLite,TFJS
+  percentage: 80
+  color:
+
+- name: Speech Technology
+  percentage: 75
+  color: dark
