@@ -30,7 +30,7 @@ author:
 # facebook          : your_username
   github            : udaygirish
 # gitlab            : your_username
-# instagram         : your_username
+  instagram         : udaygirish
 # kaggle            : your_username
   linkedin          : udaygirish-maradana
   medium            : udaygirish
@@ -42,8 +42,9 @@ author:
   twitter           : udaygirish
 # vimeo             : your_username
 # youtube           : your_channel_name
-  resume            : Uday_Girish_ShortCV.pdf
   quora             : Uday-Girish-Maradana
+  resume            : Uday_Girish_ShortCV.pdf
+  
 
 ### Posts ###
 permalink: /blog/:title
