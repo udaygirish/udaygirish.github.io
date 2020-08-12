@@ -77,6 +77,11 @@ defaults:
       type: "posts"
     values:
       comments: false                                   # Set to true to enable disqus comments
+  - scope:
+      path: ""
+      type: "resume"
+    values:
+      comments: false 
 
 ### Exclude from processing ###
 exclude:
