@@ -90,3 +90,8 @@ youtube:
   url   : https://www.youtube.com/
   icon  : fab fa-youtube
   color : ff0000
+  
+resume:
+  url   : https://github.com/udaygirish/udaygirish.github.io/raw/old_web_stat/resume/
+  icon  : fab fa-file-user
+  color : ff0000
