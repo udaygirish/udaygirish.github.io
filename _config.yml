@@ -24,15 +24,15 @@ nav_exclude:                                            # The following paths ar
 author:
   name              : Uday Girish Maradana
   image             : https://media-exp1.licdn.com/dms/image/C5103AQF7i4QfVcrZ_g/profile-displayphoto-shrink_400_400/0?e=1602720000&v=beta&t=8ngOWFfuHYeWdkxWp3hW5hG5gEKdV8LSYgkz1WxLY0U
-  behance           : your_username
+# behance           : your_username
 # dribbble          : your_username
   email             : einsteingirish@gmail.com  
-  facebook          : your_username
+# facebook          : your_username
   github            : udaygirish
 # gitlab            : your_username
 # instagram         : your_username
 # kaggle            : your_username
-  linkedin          : udaygirish
+  linkedin          : udaygirish-maradana
   medium            : udaygirish
 # soundcloud        : your_username
 # spotify           : your_username
