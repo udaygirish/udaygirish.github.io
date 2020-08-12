@@ -9,9 +9,9 @@ weight: 3
 
 Hi I am **{{ site.author.name }}** :wave:,<br>
 
-I work as Machine Learning Engineer at Quantiphi Bangalore. Most of my work is related to Computer Vision , NLP and Robotics. <br>
+I work as a Machine Learning Engineer at Quantiphi Bangalore. Most of my work is related to Computer Vision , NLP and Robotics. <br>
 
-Want to know more download resume by pressing download button at the bottom of the site :).
+Want to know more then download resume by pressing download button at the bottom of the site :smiley:
 
 
 <div class="row">
@@ -33,8 +33,6 @@ Control Systems, Robotics,Image Processing, ANN, Dynamics         <--> Course El
 Intro to AWS Machine Learning                                     <--> Udacity <br>
 Intro to Nutanix Cloud Computing (Nutanix Hybrid Cloud) - ongoing <--> Udacity <br>
  
-
-
 
 <div class="row">
 {% include about/timeline.html %}
