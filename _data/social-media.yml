@@ -93,5 +93,10 @@ youtube:
   
 resume:
   url   : https://github.com/udaygirish/udaygirish.github.io/raw/old_web_stat/resume/
-  icon  : fab fa-file-user
+  icon  : fab fa-file-pdf-o
+  color : ff0000
+  
+quora:
+  url   : https://www.quora.com/profile/
+  icon  : fab fa-quora
   color : ff0000
