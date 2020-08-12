@@ -59,7 +59,7 @@ collections:
     permalink: /projects/:name
 
 ### Disqus ###
-disqus: your-short-name-disqus                          # Your website Shortname on disqus
+disqus: https-udaygirish-github-io                          # Your website Shortname on disqus
 
 
 ### Analytics ###
