@@ -7,7 +7,8 @@ weight: 3
 
 # **About Me**
 
-Hi I am **{{ site.author.name }}** :wave:,
+Hi I am **{{ site.author.name }}** :wave:,<br>
+
 I work as Machine Learning Engineer at Quantiphi Bangalore. Most of my work is related to Computer Vision , NLP and Robotics. 
 
 
