@@ -1,11 +1,9 @@
 ### Site Settings ###
 title               : Uday Girish Maradana
 description         : >- 
-                      SITE UNDER DEVELOPMENT ...... 
-                      10 More days needed for complete updation.
-                      #I turn tea :tea: into code,
-                      #use tabs over spaces
-                      #and never broke production.
+                      I turn tea :tea: into code >- 
+                      Want to discuss : Always up for Robotics, Quantum Physics, Neuroscience & Life!!! 
+                      Update: Download resume by clicking download button, Site is always under updation!!
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : udaygirish/udaygirish.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
