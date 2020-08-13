@@ -38,6 +38,7 @@ Intro to AWS Machine Learning                                     <--> Udacity <
 Intro to Nutanix Cloud Computing (Nutanix Hybrid Cloud) - ongoing <--> Udacity <br>
  
 # **Community Outreach**
+Jariti Yatra 2019-2020 - A entrepreneurship journey around India <--> Yatri <br>
 Session on Neuroscience and Artificial Intelligence in a GDG Meetup <--> Speaker <br>
 Conducted Introductory Workshop on Robotics and AI to Rural IT people as a part of India
 Literacy Program                 <--> Speaker <br>
