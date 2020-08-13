@@ -11,7 +11,7 @@ Hi I am **{{ site.author.name }}** :wave:,<br>
 
 I work as a Machine Learning Engineer at Quantiphi Bangalore. Most of my work is related to Computer Vision , NLP and Robotics. <br>
 
-Want to know more then download resume by pressing download button at the bottom of the site :smiley: <br>
+Want to know more about me or hire me then download resume by pressing download button at the bottom of the site :smiley: <br>
 Update: Site is under constant updation. Stay tuned for blogs!!
 
 
