@@ -33,4 +33,4 @@ Literacy Program. </li>
 <li> Participated in Short-term programme on Research Methodology in Science, Energy and Management. </li> 
 <li> Participated in a full day session on Startup and IPR Awareness Program.  </li>
 <li> Participated in a seminar on Innovations in Space Technology. </li> 
-</ul>    <br>
+</ul> 
