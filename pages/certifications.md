@@ -5,9 +5,9 @@ permalink: /certifications/
 weight: 4
 ---
 
-## ** Machine Learning ** <br>
+###  Machine Learning  <br>
 AWS Machine Learning Speciality <br>
     
-## ** Cloud Development ** <br>
+###  Cloud Development  <br>
 Google Cloud Associate Engineer <br>
 AWS Associate Solutions Architect <br>
