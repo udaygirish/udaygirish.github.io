@@ -24,11 +24,11 @@ Want to know more about me or hire me then download resume [here](https://github
     </ul>
 </li>
 </ul> <br>
-[1]:  https://doi.org/10.1007/978-981-15-3914-5_3 
+[1]:  https://link.springer.com/chapter/10.1007%2F978-981-15-3914-5_3
 <div class="row">
 {% include about/timeline.html %}
 </div>
 
 # **Credits and Updates**
 Update: Site is under constant updation. Stay tuned for blogs!! <br>
-Web Credits: YoussefRaafatNasry - portfolYOU
+Web Credits: YoussefRaafatNasry - [portfolYOU] ( https://link.springer.com/chapter/10.1007%2F978-981-15-3914-5_3 ) 
