@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Skills
-permalink: /skills/
-weight: 2
+title: Certifications
+permalink: /certifications/
+weight: 4
 ---
 
 AWS Machine Learning Speciality <br>
