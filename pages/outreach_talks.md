@@ -14,18 +14,23 @@ weight: 7
 
 
 ### Talks (Speaker/Presentations/Workshops) <br>
-1). Took a Session on Neuroscience and Artificial Intelligence in a GDG Meetup. <br>
-2). Conducted Introductory Workshop on Robotics and AI to Rural IT people as a part of India
-Literacy Program. <br> 
-3). Conducted 2 day workshop on Robotics in College as a part of Tech Club named RIGNITC. <br>
+<ul>
+<li> Took a Session on Neuroscience and Artificial Intelligence in a GDG Meetup.  </li>
+<li> Conducted Introductory Workshop on Robotics and AI to Rural IT people as a part of India
+Literacy Program. </li>  
+<li> Conducted 2 day workshop on Robotics in College as a part of Tech Club named RIGNITC. </li> 
+</ul><br>
 
 ### Competitions <br>
-
-1). Participated in NiTCkathon.Ai which is an AI based hackathon conducted by JMR Infotech. <br>
-2). Quarter Finalist at India design Contest conducted by DST, Texas Instruments,Startup India. <br>
+<ul>
+<li> Participated in NiTCkathon.Ai which is an AI based hackathon conducted by JMR Infotech. </li> 
+<li> Quarter Finalist at India design Contest conducted by DST, Texas Instruments,Startup India.  </li> 
+</ul><br>
  
 
 ### Seminars/Talks <br>
-1). Participated in Short-term programme on Research Methodology in Science, Energy and Management. <br>
-2). Participated in a full day session on Startup and IPR Awareness Program. <br>
-3). Participated in a seminar on Innovations in Space Technology. <br>
+<ul>
+<li> Participated in Short-term programme on Research Methodology in Science, Energy and Management. </li> 
+<li> Participated in a full day session on Startup and IPR Awareness Program.  </li>
+<li> Participated in a seminar on Innovations in Space Technology. </li> 
+</ul>    <br>
