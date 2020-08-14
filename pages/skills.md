@@ -2,7 +2,7 @@
 layout: page
 title: Skills
 permalink: /skills/
-weight: 4
+weight: 3
 ---
 
 <div class="row">
