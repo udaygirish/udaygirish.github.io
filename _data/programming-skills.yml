@@ -74,10 +74,6 @@
   percentage: 80
   color:
 
-- name: Computer Vision
-  percentage: 80
-  color: dark
-
 - name: Network Security
   percentage: 60
   color: dark
