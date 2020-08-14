@@ -15,9 +15,15 @@ Want to know more about me or hire me then download resume by pressing download 
 
 
 # **Publications**
-RIGGU - A Semi-Humanoid Robot Platform for Speech and Image Recognition:
-RIGGU is a semi-humanoid interactive robot that is developed for different applications such as hospitality, treating autism, and assisting aged people. This paper proposes the integration of object, face, emotion recognition, and navigation of a semi-humanoid robot platform using the Robot Operating System (ROS).
-
+<ul>
+<li>RIGGU - A Semi-Humanoid Robot Platform for Speech and Image Recognition:
+    <ul>
+    <li>
+        RIGGU is a semi-humanoid interactive robot that is developed for different applications such as hospitality, treating autism, and assisting aged people. This paper proposes the integration of object, face, emotion recognition, and navigation of a semi-humanoid robot platform using the Robot Operating System (ROS).
+    </li>
+    </ul>
+</li>
+</ul> <br>
 
 <div class="row">
 {% include about/timeline.html %}

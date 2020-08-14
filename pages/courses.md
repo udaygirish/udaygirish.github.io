@@ -6,20 +6,20 @@ weight: 2
 ---
 
 ### Coursera  <br>
-
-Machine Learning - Stanford by Andrew Ng                           <br>
-Deep Learning Specialization by deeplearning.ai                    <br>
-Tensorflow Data and Deployment Specialization by DeepLearning.ai   <br>
-
+<ul>
+<li> Machine Learning - Stanford by Andrew Ng                           </li>
+<li> Deep Learning Specialization by deeplearning.ai             </li>       
+<li>Tensorflow Data and Deployment Specialization by DeepLearning.ai  </li>
+</ul> <br>
 ### Udacity  <br>
-
-Intro to AWS Machine Learning                                     <br>
-Intro to Nutanix Cloud Computing (Nutanix Hybrid Cloud) - ongoing <br>
+<ul>
+<li> Intro to AWS Machine Learning </li>                                 
+    <li>Intro to Nutanix Cloud Computing (Nutanix Hybrid Cloud) - ongoing  </li> </ul><br>
 
 ### Core Learnings - B.Tech  <br>
-Control Systems, Robotics,Image Processing, ANN, Dynamics         <br>
-Introduction to Robotics            <br>
-Image Processing    <br>
-Artificial Neural networks and Genetic Algorithms    <br>
-Control Systems and Algorithms <br>
-Dynamics  <br>
+<ul>    
+<li> Introduction to Robotics </li>      
+<li> Image Processing </li>   
+<li> Artificial Neural networks and Genetic Algorithms  </li>   
+<li> Control Systems and Algorithms </li> 
+    <li> Mechanics and Dynamics </li> </ul> <br>
