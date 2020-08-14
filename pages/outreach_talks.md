@@ -8,8 +8,8 @@ weight: 7
 
 ### Entrepreneurship <br>
 <ul>
-Jariti Yatra 2019-2020 
-    <li> An exciting journey around 12 different places in India, connecting with 450 people from different parts of world. Meeting people who are doing exceptionally well in the fields of social welfare, Sustainable Product development, Technology, Rural development etc. </li> 
+<li>Jariti Yatra 2019-2020 <ul>
+    <li> An exciting journey around 12 different places in India, connecting with 450 people from different parts of world. Meeting people who are doing exceptionally well in the fields of social welfare, Sustainable Product development, Technology, Rural development etc. </li> </ul> </li>
 </ul> <br>
 
 
