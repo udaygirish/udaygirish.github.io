@@ -16,7 +16,7 @@ Want to know more about me or hire me then download resume [here](https://github
 
 # **Publications**
 <ul>
-<li>[RIGGU - A Semi-Humanoid Robot Platform for Speech and Image Recognition]( https://doi.org/10.1007/978-981-15-3914-5_3 ):
+<li>RIGGU - A Semi-Humanoid Robot Platform for Speech and Image Recognition [Paper][1]: 
     <ul>
     <li>
         RIGGU is a semi-humanoid interactive robot that is developed for different applications such as hospitality, treating autism, and assisting aged people. This paper proposes the integration of object, face, emotion recognition, and navigation of a semi-humanoid robot platform using the Robot Operating System (ROS).
@@ -24,7 +24,7 @@ Want to know more about me or hire me then download resume [here](https://github
     </ul>
 </li>
 </ul> <br>
-
+[1]:  https://doi.org/10.1007/978-981-15-3914-5_3 
 <div class="row">
 {% include about/timeline.html %}
 </div>
