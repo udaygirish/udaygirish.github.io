@@ -74,7 +74,7 @@ Some of the metrics on which we measure the performance of the algorithm are:
     <li> F1-Score </li>
     <li> Accuracy </li>
     <li> Recall </li>
-    <li> AOU Score </li>
+    <li> ROC and AUC Score </li>
     <li> Visual Performance Evaluation</li>
 </ul>
 
