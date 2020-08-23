@@ -1,9 +1,9 @@
 ---
-title: Computer Vision
+title: Computer Vision Introduction
 tags: [computer-vision, machine-learning, ai]
 style: fill
 color: secondary
-description: This blog is about what is computer vision and different types in it and how one can solve business use cases with it!!
+description: This blog is about what is computer vision and different types in it and how one can solve business use cases with it!! This is the introductory blog of computer vision series.
 ---
 
 
@@ -19,6 +19,7 @@ Computer Vision is a bigger sub branch in Artificial Intelligence, Some of the i
     <li> Image Classification </li>
     <li> Object Detection </li>
     <li> Pose Estimation </li>
+    <li> Image Segmentation </li>
     <li> Person Re-identification </li>
     <li> 3D Depth Estimation </li>
     <li> Image Superresolution </li>
@@ -51,12 +52,35 @@ Some of the famous softwares, frameworks or tools used in industry to solve thes
 </ul>
 <br>
 
+### Use cases - Industry / Personal
+
+Computer Vision is one such field which have a lot of prominence in both Personal and indsutry life as wherever you go Image is the common form of data. <br>
+Some of the important use cases are:
+<ul>
+    <li> Video Surveillance </li>
+    <li> Crowd Monitoring </li>
+    <li> Threat detection and Post event analysis </li>
+    <li> Agriculture Crop Analysis </li>
+    <li> Healthcare Image Analysis - EEG, MRI etc., </li>
+    <li> Motion detection and Event explanation </li>
+    <li> Super Resolution - Old Photos/ Movies </li>
+    <li> Low light Image Enhancement </li>
+    <li> Art generation - Generative Adversarial Neural Networks </li>
+    <li> Movie and Video Industry </li>
+    <li> Animation and Computer graphics </li>
+    <li> Robotics </li>
+    <li> Self-Driving Cars </li>
+</ul>
+So on... 
+
+
 ### Data Sources
 
 In computer vision use cases there are many open source repositories , private repos with commercial, research and education licenses.
 <br>
 Some of the famous benchmark datasets/ Data formats include:
 <ul>
+    <li> Open Images </li>
     <li> Image Net Dataset </li>
     <li> COCO (Common Objects in Context) </li>
     <li> Pascal VOC </li>
