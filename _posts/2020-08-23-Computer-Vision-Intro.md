@@ -2,6 +2,7 @@
 title: Computer Vision
 tags: [computer-vision, machine-learning, ai]
 style: fill
+color: secondary
 description: This blog is about what is computer vision and different types in it and how one can solve business use cases with it!!
 ---
 
