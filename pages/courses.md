@@ -11,10 +11,26 @@ weight: 2
 <li> Deep Learning Specialization by deeplearning.ai             </li>       
 <li>Tensorflow Data and Deployment Specialization by DeepLearning.ai  </li>
 </ul> <br>
+
 ### Udacity  <br>
 <ul>
 <li> Intro to AWS Machine Learning </li>                                 
-    <li>Intro to Nutanix Cloud Computing (Nutanix Hybrid Cloud) - ongoing  </li> </ul><br>
+    <li>Intro to Nutanix Cloud Computing (Nutanix Hybrid Cloud) - ongoing  </li> 
+    <li> Robotics Software Engineer Nanodegree - ongoing </li>
+    <li> Self Driving Car Engineer Nanodegree - ongoing </li> 
+    </ul><br>
+
+### Udemy <br>
+<ul>
+<li> Artificial Intelligence : Reinforcement Learning in Python - ongoing </li>
+</ul>
+<br>
+
+### Distance Learning <br>
+<ul>
+<li> Master of Arts in Philosophy - IGNOU </li>
+</ul>
+<br>
 
 ### Core Learnings - B.Tech  <br>
 <ul>    
@@ -22,4 +38,4 @@ weight: 2
 <li> Image Processing </li>   
 <li> Artificial Neural networks and Genetic Algorithms  </li>   
 <li> Control Systems and Algorithms </li> 
-    <li> Mechanics and Dynamics </li> </ul> <br>
+<li> Mechanics and Dynamics </li> </ul> <br>
