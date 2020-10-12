@@ -28,7 +28,7 @@ weight: 2
 
 ### Distance Learning <br>
 <ul>
-<li> Master of Arts in Philosophy - IGNOU </li>
+<li> Master of Arts in Philosophy - IGNOU - ongoing </li>
 </ul>
 <br>
 
