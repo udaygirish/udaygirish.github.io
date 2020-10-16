@@ -24,7 +24,7 @@ nav_exclude:                                            # The following paths ar
 ### Author Info ###
 author:
   name              : Uday Girish Maradana
-  image             : https://media-exp1.licdn.com/dms/image/C5103AQF7i4QfVcrZ_g/profile-displayphoto-shrink_400_400/0?e=1602720000&v=beta&t=8ngOWFfuHYeWdkxWp3hW5hG5gEKdV8LSYgkz1WxLY0U
+  image             : ./assets/uday.png
 # behance           : your_username
 # dribbble          : your_username
   email             : einsteingirish@gmail.com  
