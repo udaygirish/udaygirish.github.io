@@ -11,7 +11,7 @@ Hi I am **{{ site.author.name }}** :wave:,<br>
 
 I work as a Machine Learning Engineer at Quantiphi Bangalore. Most of my work is related to Computer Vision , NLP and Robotics. <br>
 
-Want to know more about me or hire me then download resume [here](https://github.com/udaygirish/udaygirish.github.io/raw/old_web_stat/resume/Uday_Girish_ShortCV.pdf ) :smiley: <br>
+Want to know more about me or hire me then download resume [here](https://github.com/udaygirish/udaygirish.github.io/raw/old_web_stat/resume/Uday_Girish_Short_CV.pdf ) :smiley: <br>
 
 
 # **Publications**
