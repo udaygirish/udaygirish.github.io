@@ -1,9 +1,9 @@
 - name: Python
-  percentage: 90
+  percentage: 80
   color: danger
 
 - name: C++
-  percentage: 80
+  percentage: 50
   color:
 
 - name: Tensorflow
@@ -11,7 +11,7 @@
   color: dark
 
 - name: Pytorch
-  percentage: 60
+  percentage: 50
   color: dark
 
 - name: ROS
@@ -27,11 +27,11 @@
   color: danger
 
 - name: SQL
-  percentage: 70
+  percentage: 60
   color:
 
 - name: R
-  percentage: 50
+  percentage: 40
   color: dark
 
 - name: Cloud Computing
@@ -75,7 +75,7 @@
   color:
 
 - name: Network Security
-  percentage: 60
+  percentage: 50
   color: dark
 
 - name: Scikit-Learn
@@ -95,7 +95,7 @@
   color: dark
 
 - name: CUDA
-  percentage: 60
+  percentage: 50
   color: dark
 
 - name: TFLite,TFJS
@@ -103,5 +103,5 @@
   color:
 
 - name: Speech Technology
-  percentage: 75
+  percentage: 60
   color: dark

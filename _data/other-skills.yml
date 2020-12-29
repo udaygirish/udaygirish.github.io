@@ -1,9 +1,9 @@
 - name: SolidWorks
-  percentage: 70
+  percentage: 60
   color: info
 
 - name: Ansys
-  percentage: 60
+  percentage: 20
   color: success
   
 - name: Catia
@@ -15,15 +15,15 @@
   color: success
   
 - name: Matlab
-  percentage: 70
+  percentage: 50
   color: info
 
 - name: CREO
-  percentage: 50
+  percentage: 40
   color: success
   
 - name: Proteus
-  percentage: 40
+  percentage: 30
   color: info
 
 - name: MasterCam
@@ -35,14 +35,14 @@
   color: info
 
 - name: Research
-  percentage: 70
+  percentage: 75
   color: success
   
 - name: MS Office
-  percentage: 70
+  percentage: 90
   color: info
 
 - name: Project Management
-  percentage: 70
+  percentage: 80
   color: info
   
