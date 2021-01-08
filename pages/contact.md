@@ -5,4 +5,4 @@ permalink: /contact/
 weight: 11
 ---
 
-{% include ./contact.html %}
+{% include contact.html %}
