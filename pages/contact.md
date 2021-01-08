@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact
-permalink: /contactme/
+permalink: /contact/
 weight: 11
 ---
 
