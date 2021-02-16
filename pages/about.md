@@ -8,7 +8,7 @@ weight: 6
 # **About Me**
 
 Hi I am **{{ site.author.name }}** :wave:,<br>
-I currently work as a Machine Learning Engineer New Space Research & Technologies, Bangalore. Most of my work is related to Computer Vision , NLP and Robotics. <br>
+I currently work as a Machine Learning Engineer in Autonomous Systems CV team at New Space Research & Technologies, Bangalore. Most of my work is related to Machine learning, Deep learning, Reinforcement learning, Robotics. <br>
 
 Want to know more about me or hire me then download resume [here](https://github.com/udaygirish/udaygirish.github.io/raw/old_web_stat/resume/Uday_Girish_Short_CV.pdf ) :smiley: <br>
 
