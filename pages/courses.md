@@ -29,8 +29,10 @@ weight: 2
 ### Distance Learning <br>
 <ul>
 <li> Master of Arts in Philosophy - IGNOU - ongoing </li>
+<li> Diploma in AI and ML - Central University of Hyderabad - ongoing </li>
 </ul>
 <br>
+
 
 ### Core Learnings - B.Tech  <br>
 <ul>    
