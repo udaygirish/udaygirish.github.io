@@ -1,3 +1,11 @@
+---
+title: Trends in AI
+tags: [AI,ML,CV,Robotics,Defense]
+style: fill
+color: secondary
+description: Basic Intro to key terms and Technologies related or entangled with AI domain knowledge.
+---
+
 # Trends in AI
 
 [Github](https://github.com/udaygirish)           [Website](https://udaygirish.github.io)       [LinkedIn](https://www.linkedin.com/in/udaygirish-maradana/)                                                               - Uday Girish Maradana                                                                                                               
