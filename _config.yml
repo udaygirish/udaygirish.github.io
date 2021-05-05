@@ -60,9 +60,9 @@ collections:
     output: true
     permalink: /projects/:name
 
-### Disqus ###
-disqus: https-udaygirish-github-io                          # Your website Shortname on disqus
-
+### Disqus ###                        
+disqus:        # Your website Shortname on disqus
+  shortname: https-udaygirish-github-io  
 
 ### Analytics ###
 analytics:

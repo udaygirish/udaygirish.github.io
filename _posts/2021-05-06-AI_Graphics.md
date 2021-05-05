@@ -13,49 +13,49 @@ description: Artificial Intelligence in Graphics
 
 ### Gaming
 
-1. Desktop Gaming
+    1. Desktop Gaming
 
-    Ai in Desktop Gaming is a common thing which is being used by Activision, Rockstar like game companies  from the past decade to give Human like experience while playing games and to decide strategies.
+        Ai in Desktop Gaming is a common thing which is being used by Activision, Rockstar like game companies  from the past decade to give Human like experience while playing games and to decide strategies.
 
-    → Non Player Character Behaviour Modelling
+        → Non Player Character Behaviour Modelling
 
-    → AI  Bots ( Using DRL)
+        → AI  Bots ( Using DRL)
 
-    → Path finding
+        → Path finding
 
-    → Simulated realities
+        → Simulated realities
 
-    → Gaming Consoles - Kinect  and Stereo Powered
+        → Gaming Consoles - Kinect  and Stereo Powered
 
-2.  Cloud Gaming
+    2.  Cloud Gaming
 
- → AI bots
+        → AI bots
 
- → Player Analytics
+        → Player Analytics
 
 ---
 
 ### VFX and Films
 
-→ Face Simulation and Animation
+    → Face Simulation and Animation
 
-→ Image denoising
+    → Image denoising
 
-→ Character animation
+    → Character animation
 
-→ Texture creation
+    → Texture creation
 
-→ Image Enhancements
+    → Image Enhancements
 
-→ Facial Pose Estimation, Correction
+    → Facial Pose Estimation, Correction
 
-→ Environment and Object generation
+    → Environment and Object generation
 
-→ Rotoscoping, Masking
+    → Rotoscoping, Masking
 
-→ Pose estimation based motion Capture
+    → Pose estimation based motion Capture
 
-→ Superresolution
+    → Superresolution
 
 Techniques mostly contain different Supervised and Adversarial approaches.
 

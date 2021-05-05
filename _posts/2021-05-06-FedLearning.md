@@ -17,17 +17,17 @@ Firms actively working on it : Google, Facebook , NVIDIA
 Federated Learning (FL)  is a distributed machine learning approach which enables training on a large corpus of decentralized data residing on devices like mobile phones. FL is one instance of the more general approach of “bringing the code to the data, instead of the
 data to the code” and addresses the fundamental problems of privacy, ownership, and locality of data.   
 
-                                         - Read Paper [here.](https://arxiv.org/pdf/1902.01046.pdf)
+- Read Paper [here.](https://arxiv.org/pdf/1902.01046.pdf)
 
-![Federated%20learning%20and%20Continual%20learning%204a67eea70937471ca5304bbe6c88193a/Untitled.png](https://github.com/udaygirish/udaygirish.github.io/blob/master/_posts/Federated_learning_Intro/Untitled.png)
+![Federated%20learning%20and%20Continual%20learning%204a67eea70937471ca5304bbe6c88193a/Untitled.png](https://github.com/udaygirish/udaygirish.github.io/raw/master/_posts/Federated_learning_Intro/Untitled.png)
 
  - Google Blog Image
 
-![Federated%20learning%20and%20Continual%20learning%204a67eea70937471ca5304bbe6c88193a/Untitled%201.png](https://github.com/udaygirish/udaygirish.github.io/blob/master/_posts/Federated_learning_Intro/Untitled_1.png)
+![Federated%20learning%20and%20Continual%20learning%204a67eea70937471ca5304bbe6c88193a/Untitled%201.png](https://github.com/udaygirish/udaygirish.github.io/raw/master/_posts/Federated_learning_Intro/Untitled_1.png)
 
  - Nvidia Clara Federated Server Description
 
-![Federated%20learning%20and%20Continual%20learning%204a67eea70937471ca5304bbe6c88193a/Untitled%202.png](https://github.com/udaygirish/udaygirish.github.io/blob/master/_posts/Federated_learning_Intro/Untitled_2.png)
+![Federated%20learning%20and%20Continual%20learning%204a67eea70937471ca5304bbe6c88193a/Untitled%202.png](https://github.com/udaygirish/udaygirish.github.io/raw/master/_posts/Federated_learning_Intro/Untitled_2.png)
 
 Where it can be used :
 
