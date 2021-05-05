@@ -1,4 +1,13 @@
-# AI In Robotics, Autonomous Systems, Self Driving, Present SDKs), Defence Systems
+---
+title: AI In Robotics, Autonomous Systems, Self Driving, Present SDKs), Defence Systems
+tags: [AI, Self Driving, Autonomous Systems, Robotics, Defence]
+style: fill
+color: secondary
+comments: true
+description: Artificial Intelligence in Autonomous Systems.
+---
+
+
 
 ---
 

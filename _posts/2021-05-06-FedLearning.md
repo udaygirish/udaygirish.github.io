@@ -1,4 +1,12 @@
-# Federated learning and Continual learning
+---
+title: Federated learning and Continual learning
+tags: [AI, ML, Federated Learning, Continual Learning]
+style: fill
+color: secondary
+comments: true
+description:  Intro to Federated learning and Continual learning techniques - Advances in AI
+---
+# 
 
 ### Federated Learning:
 
@@ -11,15 +19,15 @@ data to the code” and addresses the fundamental problems of privacy, ownership
 
                                          - Read Paper [here.](https://arxiv.org/pdf/1902.01046.pdf)
 
-![Federated%20learning%20and%20Continual%20learning%204a67eea70937471ca5304bbe6c88193a/Untitled.png](Federated%20learning%20and%20Continual%20learning%204a67eea70937471ca5304bbe6c88193a/Untitled.png)
+![Federated%20learning%20and%20Continual%20learning%204a67eea70937471ca5304bbe6c88193a/Untitled.png](https://github.com/udaygirish/udaygirish.github.io/blob/master/_posts/Federated_learning_Intro/Untitled.png)
 
  - Google Blog Image
 
-![Federated%20learning%20and%20Continual%20learning%204a67eea70937471ca5304bbe6c88193a/Untitled%201.png](Federated%20learning%20and%20Continual%20learning%204a67eea70937471ca5304bbe6c88193a/Untitled%201.png)
+![Federated%20learning%20and%20Continual%20learning%204a67eea70937471ca5304bbe6c88193a/Untitled%201.png](https://github.com/udaygirish/udaygirish.github.io/blob/master/_posts/Federated_learning_Intro/Untitled_1.png)
 
  - Nvidia Clara Federated Server Description
 
-![Federated%20learning%20and%20Continual%20learning%204a67eea70937471ca5304bbe6c88193a/Untitled%202.png](Federated%20learning%20and%20Continual%20learning%204a67eea70937471ca5304bbe6c88193a/Untitled%202.png)
+![Federated%20learning%20and%20Continual%20learning%204a67eea70937471ca5304bbe6c88193a/Untitled%202.png](https://github.com/udaygirish/udaygirish.github.io/blob/master/_posts/Federated_learning_Intro/Untitled_2.png)
 
 Where it can be used :
 
