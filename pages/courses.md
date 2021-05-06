@@ -26,6 +26,13 @@ weight: 2
 </ul>
 <br>
 
+### Quantum Computing <br>
+<ul>
+<li> The Coding School: Certificate Course on Quantum Computing (IBM,MIT) </li>
+<li> QWorld Bronze Introduction to Quantum Computing Workshop </li>
+</ul>
+<br>
+
 <!-- ### Distance Learning <br>
 
 <br> -->

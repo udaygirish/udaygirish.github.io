@@ -45,7 +45,9 @@
 - name: AWS
   percentage: 80
   color: dark
-  
+
+
+
 - name: Machine Learning
   percentage: 80
   color: danger
@@ -76,6 +78,10 @@
 
 - name: Network Security
   percentage: 50
+  color: dark
+
+- name: Quantum Computing 
+  percentage: 30
   color: dark
 
 - name: Scikit-Learn
