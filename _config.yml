@@ -22,7 +22,8 @@ nav_exclude:                                            # The following paths ar
   - pages/fquotes.md
   - pages/status.md
   - pages/contact.md
-  - pages/contact.html
+
+  #  - pages/contact.html
 
 ### Author Info ###
 author:
