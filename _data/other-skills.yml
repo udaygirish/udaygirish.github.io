@@ -4,15 +4,15 @@
 
 - name: Ansys
   percentage: 20
-  color: success
+  color: danger
   
 - name: Catia
   percentage: 40
-  color: info
+  color: danger
 
 - name: Design & Analysis
   percentage: 60
-  color: success
+  color: info
   
 - name: Matlab
   percentage: 50
@@ -20,29 +20,36 @@
 
 - name: CREO
   percentage: 40
-  color: success
+  color: danger
   
 - name: Proteus
   percentage: 30
-  color: info
+  color: danger
 
 - name: MasterCam
   percentage: 50
-  color: success
+  color: info
   
 - name: FluidSim
-  percentage: 90
-  color: info
+  percentage: 80
+  color: success
 
 - name: Research
-  percentage: 75
+  percentage: 85
   color: success
   
 - name: MS Office
   percentage: 90
-  color: info
+  color: success
 
 - name: Project Management
   percentage: 80
-  color: info
+  color: success
   
+- name: Leadership
+  percentage: 80
+  color: success
+  
+- name: Critical Thinking
+  percentage: 80
+  color: success

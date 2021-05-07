@@ -1,113 +1,111 @@
 - name: Python
   percentage: 80
-  color: danger
+  color: success
 
 - name: C++
   percentage: 50
-  color:
+  color: info
 
 - name: Tensorflow
   percentage: 70
-  color: dark
+  color: info
 
 - name: Pytorch
   percentage: 50
-  color: dark
+  color: info 
 
 - name: ROS
   percentage: 60
-  color:
+  color: info 
 
 - name: OpenCV
-  percentage: 75
-  color: dark
+  percentage: 80
+  color: success
   
 - name: HTML
   percentage: 70
-  color: danger
+  color: info
 
 - name: SQL
   percentage: 60
-  color:
+  color: info
 
 - name: R
   percentage: 40
-  color: dark
+  color: danger
 
 - name: Cloud Computing
   percentage: 80
-  color: dark
+  color: success
 
 - name: GCP
   percentage: 90
-  color:
+  color: success
 
 - name: AWS
   percentage: 80
-  color: dark
-
-
+  color: success
 
 - name: Machine Learning
   percentage: 80
-  color: danger
+  color: success
 
 - name: Deep Learning
   percentage: 80
-  color:
+  color: success
 
 - name: Computer Vision
   percentage: 80
-  color: dark
+  color: success
 
 - name: NLP
   percentage: 60
-  color: dark
+  color: info
 
 - name: Robotics
-  percentage: 80
-  color:
+  percentage: 70
+  color: info
 
 - name: IOT
   percentage: 75
-  color: dark
+  color: info
 
 - name: Edge Computing
   percentage: 80
-  color:
+  color: success
 
 - name: Network Security
   percentage: 50
-  color: dark
+  color: info
 
 - name: Quantum Computing 
   percentage: 30
-  color: dark
+  color: danger
 
 - name: Scikit-Learn
   percentage: 80
-  color:
+  color: success
 
 - name:  Data Visualisations
   percentage: 75
-  color: dark
+  color: info
 
 - name: Github
   percentage: 80
-  color:
+  color: success
 
 - name: Jenkins
-  percentage: 70
-  color: dark
+  percentage: 50
+  color: info
 
 - name: CUDA
-  percentage: 50
-  color: dark
+  percentage: 30
+  color: danger
 
 - name: TFLite,TFJS
   percentage: 80
-  color:
+  color: success
 
 - name: Speech Technology
   percentage: 60
-  color: dark
+  color: info
