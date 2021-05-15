@@ -16,7 +16,7 @@
 
 - name: Underwater Robotics
   percentage: 20
-  color: info 
+  color: danger
 
 - name: IOT
   percentage: 75
