@@ -29,3 +29,4 @@ Want to know more about me or hire me then download resume [here](https://github
 # **Credits and Updates**
 Update: Site is under constant updation. Stay tuned for blogs!! <br>
 Web Credits: [YoussefRaafatNasry - portfolYOU](https://github.com/YoussefRaafatNasry/portfolYOU)
+Info: This site tracks your location to understand the audience reach through Google Analytics.
