@@ -27,7 +27,7 @@ Want to know more about me or hire me then download resume [here](https://github
 </div> 
 
 <div class="row">
-{% include about/timeline.html title="Work-Experience" source=site.data.work-experience-timeline %}
+{% include about/work-experience-timeline.html title="Work-Experience" source=site.data.work-experience-timeline %}
 </div>
 
 <div class="row">
