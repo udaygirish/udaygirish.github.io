@@ -23,8 +23,17 @@ Want to know more about me or hire me then download resume [here](https://github
 <br>
 
 <div class="row">
-{% include about/timeline.html}
+{% include about/timeline.html %}
 </div> 
+
+<div class="row">
+{% include about/timeline.html title="Work-Experience" source=site.data.work-experience-timeline %}
+</div>
+
+<div class="row">
+{% include about/timeline.html title="Education" source=site.data.education-timeline %}
+</div>
+
 
 # **Credits and Updates**
 Update: Site is under constant updation. Stay tuned for blogs!! <br>
