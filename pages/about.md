@@ -22,17 +22,13 @@ Want to know more about me or hire me then download resume [here](https://github
 </ul>
 <br>
 
-# ** Total Timeline **
-<div class="row">
-{% include about/timeline.html %}
-</div> 
 
-# ** Work-Experience Timeline **
+# **Work-Experience**
 <div class="row">
 {% include about/work-experience.html %}
 </div> 
 
-# ** Education Timeline **
+# **Education**
 <div class="row">
 {% include about/education-timeline.html %}
 </div> 
