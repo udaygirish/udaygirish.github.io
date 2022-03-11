@@ -15,7 +15,7 @@ weight: 2
 ### Udacity  <br>
 <ul>
 <li> Intro to AWS Machine Learning </li>                                 
-    <li>Intro to Nutanix Cloud Computing (Nutanix Hybrid Cloud) - ongoing  </li> 
+    <li>Intro to Nutanix Cloud Computing (Nutanix Hybrid Cloud)   </li> 
     <li> Robotics Software Engineer Nanodegree - ongoing </li>
     <li> Self Driving Car Engineer Nanodegree - ongoing </li> 
     </ul><br>
@@ -35,6 +35,12 @@ weight: 2
 </ul>
 <br>
 
+### Other Sources <br>
+<ul>
+<li>  Image Segmentation: Advanced Techniques - ThinkAutonomous.ai </li>
+</ul>
+<br>
+
 <!-- ### Distance Learning <br>
 
 <br> -->
@@ -47,3 +53,13 @@ weight: 2
 <li> Artificial Neural networks and Genetic Algorithms  </li>   
 <li> Control Systems and Algorithms </li> 
 <li> Mechanics and Dynamics </li> </ul> <br>
+
+### Core Learnings - PGD <br>
+<ul>
+<li> Essentials of AI </li>
+<li> Data Analysis and Visualization </li>
+<li> Machine Learning </li>
+<li> Advanced Machine Learning </li>
+<li> Deep learning </li>
+</ul>
+<br>
