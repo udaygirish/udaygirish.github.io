@@ -38,6 +38,7 @@ weight: 2
 ### Other Sources <br>
 <ul>
 <li>  Image Segmentation: Advanced Techniques - ThinkAutonomous.ai </li>
+<li>  Electric Vehicle Design MasterClass - 30 Days Internship - Pantech e Learning </li>
 </ul>
 <br>
 
