@@ -1,7 +1,10 @@
+---
+layout: page
+title: Projects
+permalink: /projects/
+weight: 1
+---
 
-## Projects 
----
----
 ## **Projects - Professional /Internships**
 
 ---
