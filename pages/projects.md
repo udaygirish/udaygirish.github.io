@@ -167,7 +167,7 @@ weight: 1
         
     A complete framework for the development of an Interactive Semi-Humanoid Robot using technologies like AI, NLP, ROS, SLAM.
         
-    [https://www.youtube.com/watch?v=rJtpveWpm8U](https://www.youtube.com/watch?v=rJtpveWpm8U)
+    [![RIGGU](https://img.youtube.com/vi/rJtpveWpm8U/0.jpg)](https://www.youtube.com/watch?v=rJtpveWpm8U "RIGGU")   
         
 7. Quadcopter: 
     Autonomous Quadcopter based on PixHawk Flight controller integrated with a Raspberry Pi.
