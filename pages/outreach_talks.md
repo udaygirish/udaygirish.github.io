@@ -27,8 +27,9 @@ Literacy Program. </li>
 
 ### Competitions <br>
 <ul>
-<li> Participated in NiTCkathon.Ai which is an AI based hackathon conducted by JMR Infotech. </li> 
-![nitkathon.png](https://github.com/udaygirish/udaygirish.github.io/raw/master/assets/nitkathon.png)
+<li> Participated in NiTCkathon.Ai which is an AI based hackathon conducted by JMR Infotech.
+![nitkathon.png](https://github.com/udaygirish/udaygirish.github.io/raw/master/assets/nitkathon.png) </li> 
+
 <li> Quarter Finalist at India design Contest conducted by DST, Texas Instruments,Startup India.  </li> 
 
 </ul><br>
