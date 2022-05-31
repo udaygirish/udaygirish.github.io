@@ -39,6 +39,7 @@ weight: 3
 <ul>
 <li>  Image Segmentation: Advanced Techniques - ThinkAutonomous.ai </li>
 <li>  Electric Vehicle Design MasterClass - 30 Days Internship - Pantech e Learning </li>
+<li> Introduction to 3D Computer Vision - Summer School IIIT Hyderabad </li>
 </ul>
 <br>
 

@@ -17,6 +17,7 @@ weight: 8
 <br>
 
 
+
 ### Talks (Speaker/Presentations/Workshops) <br>
 <ul>
 <li> Took a Session on Neuroscience and Artificial Intelligence in a GDG Meetup.  </li>
@@ -28,14 +29,15 @@ Literacy Program. </li>
 ### Competitions <br>
  -  Participated in NiTCkathon.Ai which is an AI based hackathon conducted by JMR Infotech.
 
-![](https://github.com/udaygirish/udaygirish.github.io/raw/master/assets/nitkathon.png) </li> 
+![](https://github.com/udaygirish/udaygirish.github.io/raw/master/assets/nitkathon.png)  
 
-- Quarter Finalist at India design Contest conducted by DST, Texas Instruments,Startup India.  </li> 
+- Quarter Finalist at India design Contest conducted by DST, Texas Instruments,Startup India.
 <br>
  
 
 ### Seminars/Talks <br>
 <ul>
+<li> Participated in 3D Computer Vision Summer School - IIIT Hyderabad </li>
 <li> Participated in Short-term programme on Research Methodology in Science, Energy and Management. </li> 
 <li> Participated in a full day session on Startup and IPR Awareness Program.  </li>
 <li> Participated in a seminar on Innovations in Space Technology. </li> 
