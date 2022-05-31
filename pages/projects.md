@@ -1,7 +1,7 @@
-# Projects
 
 ## **Projects - Professional /Internships**
 
+---
 ### **At Tiger Analytics**
 
 **Login Event** **Anomaly Detection - ML in Cybersecurity**
@@ -16,6 +16,8 @@
 
 <li> Developing models related to Anomaly detection using a hybrid approach of Unsupervised and Supervised models with an additional component of Explainable AI. </li>
 </ul>
+
+---
 
 ### **As a Freelancer**:
 
@@ -89,6 +91,7 @@
     Developing base question and answering pipeline for demonstration and tutorial purpose using Hugging Face transformers, Pytorch lightning, and model metadata logging to Weights and Biases. </li>
     </ul>
     
+---
 
 ### **At New Space Research & Technologies**
 
@@ -111,6 +114,8 @@
     </ul>
     
 
+---
+
 ### At Quantiphi
 
 1. Computer Vision for Safety: 
@@ -127,6 +132,7 @@
     - Exploration of other CPU optimizers primarily checking Intel MKL-DNN and Open Vino to understand different CPU level model optimizations.
     - Exploration on Federated learning to understand privacy and distributed model developments.
     
+---
 ---
 
 ## **Projects - Academic/Personal**
@@ -172,7 +178,8 @@
         
     
 
-
+---
+---
 
 
 ## Roles, Responsibilities and Interests
