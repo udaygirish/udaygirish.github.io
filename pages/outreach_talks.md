@@ -9,8 +9,12 @@ weight: 8
 ### Entrepreneurship <br>
 <ul>
 <li>Jagriti Yatra (2019-2020) <ul>
-    <li> An exciting journey around 12 different places in India, connecting with 450 people from different parts of world. Meeting people who are doing exceptionally well in the fields of social welfare, Sustainable Product development, Technology, Rural development etc. </li> </ul> </li>
-</ul> <br>
+    <li> An exciting journey around 12 different places in India, connecting with 450 people from different parts of world. Meeting people who are doing exceptionally well in the fields of social welfare, Sustainable Product development, Technology, Rural development etc. 
+    </li> 
+    </ul> </li>
+</ul>
+![telugugang.jpeg](https://github.com/udaygirish/udaygirish.github.io/raw/master/assets/telugugang.jpeg)
+<br>
 
 
 ### Talks (Speaker/Presentations/Workshops) <br>
@@ -24,7 +28,9 @@ Literacy Program. </li>
 ### Competitions <br>
 <ul>
 <li> Participated in NiTCkathon.Ai which is an AI based hackathon conducted by JMR Infotech. </li> 
+![nitkathon.png](https://github.com/udaygirish/udaygirish.github.io/raw/master/assets/nitkathon.png)
 <li> Quarter Finalist at India design Contest conducted by DST, Texas Instruments,Startup India.  </li> 
+
 </ul><br>
  
 

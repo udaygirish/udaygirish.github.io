@@ -161,7 +161,6 @@ weight: 1
         
     As part of NITC hackathon conducted by JMR InfoTech, worked as a 3-member team and developed a skillset for Amazon Alexa to understand different skills related to online shopping.
         
-    ![nitkathon.png](https://github.com/udaygirish/udaygirish.github.io/raw/master/assets/nitkathon.png)
         
 6. RIGGU V2-The Semi Humanoid : 
         
