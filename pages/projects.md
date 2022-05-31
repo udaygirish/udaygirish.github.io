@@ -1,4 +1,7 @@
 
+## Projects 
+---
+---
 ## **Projects - Professional /Internships**
 
 ---
