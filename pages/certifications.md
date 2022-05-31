@@ -2,7 +2,7 @@
 layout: page
 title: Certifications
 permalink: /certifications/
-weight: 4
+weight: 5
 ---
 
 ###  Machine Learning  <br>

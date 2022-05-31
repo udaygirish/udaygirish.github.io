@@ -2,7 +2,7 @@
 layout: page
 title: Courses
 permalink: /courses/
-weight: 2
+weight: 3
 ---
 
 ### Coursera  <br>
