@@ -156,10 +156,10 @@ weight: 1
 4. Knee Rehabilitation System: 
     
     Fabrication of a device with 2 DOF mechanism which can be used for performing Flexo-extension exercises can be used for Knee rehabilitation purposes.
-    <p float="left">
-    <img src="https://github.com/udaygirish/udaygirish.github.io/raw/master/assets/hipflexoextension.JPG>" width="100" />
-    <img src="https://github.com/udaygirish/udaygirish.github.io/raw/master/assets/hipflexoextension.JPG", width="100" />
-    </p>
+
+    Hip Flexo Extension | Knee Flexo Extension
+    :---------------:|:--------------------:
+    ![](https://github.com/udaygirish/udaygirish.github.io/raw/master/assets/hipflexoextension.JPG)|![](https://github.com/udaygirish/udaygirish.github.io/raw/master/assets/kneeflexoextension2.JPG)
 
 
         
@@ -177,6 +177,9 @@ weight: 1
 7. Quadcopter: 
     Autonomous Quadcopter based on PixHawk Flight controller integrated with a Raspberry Pi.
 
+    <iframe 
+    title= "RIGGU" width="480" height="390"
+    src= "https://www.youtube.com/watch?v=rJtpveWpm8U" frameborder="0" allowfullscreen></iframe>
 8. Hexacopter: 
         
     Hexacopter based on ARM and equipped with manual control. PID tuning was done for stability. This project involves the testing and performance analysis of hexacopter on PID and backstep algorithms.
