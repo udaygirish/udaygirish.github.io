@@ -19,16 +19,14 @@ weight: 8
 
 
 ### Talks (Speaker/Presentations/Workshops) <br>
-<ul>
-<li> Took a Session on Neuroscience and Artificial Intelligence in a GDG Meetup.  </li>
-<li> Conducted Introductory Workshop on Robotics and AI to Rural IT people as a part of India
-Literacy Program. </li>  
-<li> Conducted a 2 Hour Session on Introduction to AI and ML at NIT Calicut - Dept.of Mechanical 
-Engineering. </li>
-
+- Took a Session on Neuroscience and Artificial Intelligence in a GDG Meetup.  
+- Conducted Introductory Workshop on Robotics and AI to Rural IT people as a part of India
+Literacy Program.
+- Conducted a 2 Hour Session on Introduction to AI and ML at NIT Calicut - Dept.of Mechanical 
+Engineering.
 ![Workshop Speaker](https://github.com/udaygirish/udaygirish.github.io/raw/master/assets/NITC_Mech_Intro_to_AI.JPG)
-<li> Conducted 2 day workshop on Robotics in College as a part of Tech Club named RIGNITC. </li> 
-</ul><br>
+- Conducted 2 day workshop on Robotics in College as a part of Tech Club named RIGNITC.
+<br>
 
 ### Competitions <br>
  -  Participated in NiTCkathon.Ai which is an AI based hackathon conducted by JMR Infotech.
