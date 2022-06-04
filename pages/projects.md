@@ -171,18 +171,23 @@ weight: 1
 6. RIGGU V2-The Semi Humanoid : 
         
     A complete framework for the development of an Interactive Semi-Humanoid Robot using technologies like AI, NLP, ROS, SLAM.
-        
-    [![RIGGU](https://img.youtube.com/vi/rJtpveWpm8U/0.jpg)](https://www.youtube.com/watch?v=rJtpveWpm8U "RIGGU")   
-        
+                
+    <iframe width="640" height="480" src="https://www.youtube.com/embed/rJtpveWpm8U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>   
+
+
 7. Quadcopter: 
     Autonomous Quadcopter based on PixHawk Flight controller integrated with a Raspberry Pi.
 
-    <iframe 
-    title= "RIGGU" width="480" height="360"
-    src= "https://www.youtube.com/embed/rJtpveWpm8U" frameborder="0" allowfullscreen></iframe>
+    <iframe src="https://player.vimeo.com/video/717149294?h=6fa04be482" width="640" height="480" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+
+    <iframe src="https://player.vimeo.com/video/717149263?h=f9cca6ee04" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
 8. Hexacopter: 
         
     Hexacopter based on ARM and equipped with manual control. PID tuning was done for stability. This project involves the testing and performance analysis of hexacopter on PID and backstep algorithms.
+
+    <iframe src="https://player.vimeo.com/video/717149217?h=d72ef18eed" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
         
 9. Robocon Bot:
         
