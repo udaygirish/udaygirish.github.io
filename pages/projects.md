@@ -178,8 +178,8 @@ weight: 1
     Autonomous Quadcopter based on PixHawk Flight controller integrated with a Raspberry Pi.
 
     <iframe 
-    title= "RIGGU" width="480" height="390"
-    src= "https://www.youtube.com/watch?v=rJtpveWpm8U" frameborder="0" allowfullscreen></iframe>
+    title= "RIGGU" width="480" height="360"
+    src= "https://www.youtube.com/embed/rJtpveWpm8U" frameborder="0" allowfullscreen></iframe>
 8. Hexacopter: 
         
     Hexacopter based on ARM and equipped with manual control. PID tuning was done for stability. This project involves the testing and performance analysis of hexacopter on PID and backstep algorithms.
