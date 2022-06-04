@@ -156,6 +156,12 @@ weight: 1
 4. Knee Rehabilitation System: 
     
     Fabrication of a device with 2 DOF mechanism which can be used for performing Flexo-extension exercises can be used for Knee rehabilitation purposes.
+    <p float="left">
+    <img src="https://github.com/udaygirish/udaygirish.github.io/raw/master/assets/hipflexoextension.JPG>" width="100" />
+    <img src="https://github.com/udaygirish/udaygirish.github.io/raw/master/assets/hipflexoextension.JPG", width="100" />
+    </p>
+
+
         
 5. Online Shopping skillset for Alexa - NITCkathon.ai (24hr event)
         
