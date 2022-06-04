@@ -25,7 +25,8 @@ weight: 8
 Literacy Program. </li>  
 <li> Conducted a 2 Hour Session on Introduction to AI and ML at NIT Calicut - Dept.of Mechanical 
 Engineering. </li>
-![Workshop Speaker]](https://github.com/udaygirish/udaygirish.github.io/raw/master/assets/NITC_Mech_Intro_to_AI.JPG)
+
+![Workshop Speaker](https://github.com/udaygirish/udaygirish.github.io/raw/master/assets/NITC_Mech_Intro_to_AI.JPG)
 <li> Conducted 2 day workshop on Robotics in College as a part of Tech Club named RIGNITC. </li> 
 </ul><br>
 
