@@ -10,6 +10,7 @@ weight: 3
 <li> Machine Learning - Stanford by Andrew Ng                           </li>
 <li> Deep Learning Specialization by deeplearning.ai             </li>       
 <li>Tensorflow Data and Deployment Specialization by DeepLearning.ai  </li>
+<li> Preparing for Google Cloud Machine learning Engineer Specialization </li>
 </ul> <br>
 
 ### Udacity  <br>
@@ -37,9 +38,11 @@ weight: 3
 
 ### Other Sources <br>
 <ul>
+<li> Advanced DSA and System Design - Tutort Academy (Ongoing) </li>
 <li>  Image Segmentation: Advanced Techniques - ThinkAutonomous.ai </li>
 <li>  Electric Vehicle Design MasterClass - 30 Days Internship - Pantech e Learning </li>
 <li> Introduction to 3D Computer Vision - Summer School IIIT Hyderabad </li>
+<li> Introduction to Computational Neuroscience - Neuromatch Academy </li>
 </ul>
 <br>
 
