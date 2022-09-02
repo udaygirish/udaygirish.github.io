@@ -9,6 +9,7 @@ weight: 5
 <ul>
     
 <li> AWS Machine Learning Speciality </li>
+<li> Google Cloud Professional Machine Learning Engineer </li>
 </ul> <br>
     
 ###  Cloud Development  <br>

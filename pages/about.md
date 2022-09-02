@@ -10,7 +10,7 @@ weight: 7
 Hi I am **{{ site.author.name }}** :wave:,<br>
 I currently work as a Machine learning engineer at Tiger Analytics. Most of my work is related to Machine learning, Deep learning, ML Engineering, MLOps, Reinforcement learning, Robotics. <br>
 
-Want to know more about me or hire me then download resume [here](https://github.com/udaygirish/udaygirish.github.io/raw/master/assets/Uday_Girish_Total_CV.pdf) :smiley: <br>
+Want to know more about me or hire me then download resume [here](https://github.com/udaygirish/udaygirish.github.io/raw/master/assets/Uday_Girish_Updated_CV.pdf) :smiley: <br>
 
 
 # **Work-Experience**

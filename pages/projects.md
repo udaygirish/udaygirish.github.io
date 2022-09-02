@@ -10,16 +10,28 @@ weight: 1
 ---
 ### **At Tiger Analytics**
 
+**IOT - CV -ML Exploration - Internal POC**
+<ul>
+<li> Leading the capability development of the firm in the combined space of IOT and CV. </li>
+<li> Developing scalable architecture on AWS with IOT Greengrass and Kinesis. </li>
+<li> Currently in POC phase where we are trying to work with edge devices with two streams of 
+data. One of the stream is a continuous value data (IOT sensors) and one other stream is 
+a video stream. </li>
+<li> Exploring the Scalable CV pipelines both in DS and MLOps perspective. Checking the 
+feasibility of optimisation of the pipelines from the Data preprocessing of streams to 
+Inference. (Elastic Inference, Nvidia Deepstream SDK, Triton Inference Server) </li>
+</ul>
+
 **Login Event** **Anomaly Detection - ML in Cybersecurity**
 <ul>
-<li>Developing a Feature Engineering and Ingestion Pipeline using MLOps approach</li>
-
-<li>Developing a Feature Serving and Training pipeline using GCP Vertex AI MLOps</li>
-
-<li> eveloping an Online Serving and Eval pipeline using GCP Vertex AI. </li>
-
-<li> Automating the entire ML Dev and Deployment field using CI-CD with GCP services. </li>
-
+<li>Developing a Feature Engineering and Ingestion Pipeline using MLOps approach
+</li>
+<li>Developing a Feature Serving and Training pipeline using GCP Vertex AI MLOps
+</li>
+<li> eveloping an Online Serving and Eval pipeline using GCP Vertex AI.
+</li>
+<li> Automating the entire ML Dev and Deployment field using CI-CD with GCP services. 
+</li>
 <li> Developing models related to Anomaly detection using a hybrid approach of Unsupervised and Supervised models with an additional component of Explainable AI. </li>
 </ul>
 
@@ -29,14 +41,19 @@ weight: 1
 
 **Project based Freelancing - Client through LinkedIn**
 
-1. Label Studio Setup for Automated ML Labelling
+1. Knee Arthroscopy Tool
+    <ul>
+    <li> Developing a workflow with Tradtional and DL based CV to handle Image based relative measurements and transfer them to real world coordinates </li>
+    <li> This tool helps in Surgeries as an aid to Surgeons to get relative real world estimates of the space on which they are performing the surgery  </li>
+
+2. Label Studio Setup for Automated ML Labelling
     <ul>
     <li> Developed Code to support Yolov5 as a ML Backend for Automated ML labelling in Label Studio </li>
     <li> Integrated Yolov5 , OpenMMLab Object Detection models to LabelStudio ML Backend </li>
     <li> Wrote Scripts to run LabelStudio in a Colab leveraging Colab’s GPU working through a tunneled external url using Ngrok. </li>
     </ul>
     
-2. Website for Video Analytics
+3. Website for Video Analytics
     <ul>
     <li>Developing an Website where user can upload videos and select or upload pretrained models (Yolo, CLIP based formats) and get the results streamed on the same website with outputs labelled on the Video. </li>
     <li> Used Streamlit for Basic frontend, Model Runner API on backend which runs scripts according to the selection on UI. </li>
@@ -67,7 +84,12 @@ weight: 1
 
 **Part- time Project - Applied Computing**
 
-1. Virtual KYC: 
+1. Auto Ticket Generation POC:
+    <ul>
+    <li> Working on developing a platform to automate ticket generation for queries and complaints </li>
+    <li> End to End platform to automate the Phone calls/messages received by a contact center and use AI for automatic ticket generation </li>
+
+2. Virtual KYC: 
     <ul>
     <li>Developed a full-fledged Virtual KYC solution with OpenCV,  AWS Textract, and Facerec APIs to extract information, verify faces and textual information, and use it for the KYC authentication system. Here the solution provides the total information extracted plus whether the documents are acceptable or not or any discrepancies in the documents.</li>
     </ul>
