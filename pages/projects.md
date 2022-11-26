@@ -10,6 +10,19 @@ weight: 1
 ---
 ### **At Tiger Analytics**
 
+**MLOps Pipeline Dev for Price Elasticity**
+<ul>
+<li>
+Leading a team of four ML Engineers in developing a Scalable and experiment reproducible MLOps pipeline for Price Elasticity of SKU's classification.
+</li>
+<li> 
+Able to reduce the total models training time by more than 50 percent using parallelised approaches with Pyspark.
+</li>
+<li>
+End-to-End pipeline with orchestrator as Google Composer, Custom container deployment for Feature preparation, Dataproc for running Pyspark jobs to train more than 30000 SKU models in less than 3 hours.
+</li>
+</ul>
+
 **IOT - CV -ML Exploration - Internal POC**
 <ul>
 <li> Leading the capability development of the firm in the combined space of IOT and CV. </li>
@@ -24,15 +37,15 @@ Inference. (Elastic Inference, Nvidia Deepstream SDK, Triton Inference Server) <
 
 **Login Event** **Anomaly Detection - ML in Cybersecurity**
 <ul>
-<li>Developing a Feature Engineering and Ingestion Pipeline using MLOps approach
+<li>Developed a Feature Engineering and Ingestion Pipeline using MLOps approach
 </li>
-<li>Developing a Feature Serving and Training pipeline using GCP Vertex AI MLOps
+<li>Developed a Feature Serving and Training pipeline using GCP Vertex AI MLOps
 </li>
-<li> eveloping an Online Serving and Eval pipeline using GCP Vertex AI.
+<li> eveloped an Online Serving and Eval pipeline using GCP Vertex AI.
 </li>
 <li> Automating the entire ML Dev and Deployment field using CI-CD with GCP services. 
 </li>
-<li> Developing models related to Anomaly detection using a hybrid approach of Unsupervised and Supervised models with an additional component of Explainable AI. </li>
+<li> Developed models related to Anomaly detection using a hybrid approach of Unsupervised and Supervised models with an additional component of Explainable AI. </li>
 </ul>
 
 ---
