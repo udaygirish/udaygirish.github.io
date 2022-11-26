@@ -4,6 +4,25 @@ title: Courses
 permalink: /courses/
 weight: 3
 ---
+### Professional Certifications 
+<ul>
+Machine Learning  <br>
+
+<ul>
+    
+<li> AWS Machine Learning Speciality </li>
+<li> Google Cloud Professional Machine Learning Engineer </li>
+</ul> <br>
+
+    
+###  Cloud Development  <br>
+<ul>
+    
+<li> Google Cloud Associate Engineer </li>
+<li> AWS Associate Solutions Architect </li>
+</ul>
+<br>
+</ul>
 
 ### Coursera  <br>
 <ul>

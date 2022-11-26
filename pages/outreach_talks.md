@@ -2,7 +2,7 @@
 layout: page
 title: Outreach
 permalink: /outreach/
-weight: 8
+weight: 7
 ---
 
 
