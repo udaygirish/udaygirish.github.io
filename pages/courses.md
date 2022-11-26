@@ -15,7 +15,7 @@ Machine Learning  <br>
 </ul> <br>
 
     
-###  Cloud Development  <br>
+Cloud Development  <br>
 <ul>
     
 <li> Google Cloud Associate Engineer </li>
