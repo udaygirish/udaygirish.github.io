@@ -10,10 +10,26 @@ weight: 1
 ---
 ### **At Tiger Analytics**
 
+**MLOps Framework Dev for Unified DataScience Platform**
+<ul>
+<li>
+Led a team of three ML Engineers in developing a Scalable MLOps Framework in Amazon Web Services utilizing Sagemaker capabilities.
+</li>
+<li>
+Developed and deployed a MLOps framework for deploying Datascience models with ease involving services such as Sagemaker, DynamoDB, Event Bridge, SNS.
+</li>
+<li>
+Developed a Organizational flow for the client to onboard new datascientists to get familiar with framework and reduce their model development and deployment time by more than 75 % (Almost from 4 Weeks to 7 Working Days)
+</li>
+
 **MLOps Pipeline Dev for Price Elasticity**
 <ul>
 <li>
-Leading a team of four ML Engineers in developing a Scalable and experiment reproducible MLOps pipeline for Price Elasticity of SKU's classification.
+Led the GCP ML Accelerator Program and helped organization to become a GCP ML partner. My contribution involve explaining the projects and the organization capbility in terms of both Technical capabilities and the successfull projects and business impact.
+</li>
+
+<li>
+Led a team of four ML Engineers in developing a Scalable and experiment reproducible MLOps pipeline for Price Elasticity of SKU's classification.
 </li>
 <li> 
 Able to reduce the total models training time by more than 50 percent using parallelised approaches with Pyspark.
@@ -54,19 +70,24 @@ Inference. (Elastic Inference, Nvidia Deepstream SDK, Triton Inference Server) <
 
 **Project based Freelancing - Client through LinkedIn**
 
-1. Knee Arthroscopy Tool
+1. Point Tracking for Ultrasound Videos to measure joint instability
+   <ul>
+   <li> Developed a end to end framework for aiding Medical practitioners to track different segments in ultrasound at a point level throughout the timeframe of a video</li>
+   <li> This tool can provide real time plots of distance and angle between segments in 2D space and also gives the capability of doing further analysis with a single time run data. </li>
+
+2. Knee Arthroscopy Tool
     <ul>
     <li> Developing a workflow with Tradtional and DL based CV to handle Image based relative measurements and transfer them to real world coordinates </li>
     <li> This tool helps in Surgeries as an aid to Surgeons to get relative real world estimates of the space on which they are performing the surgery  </li>
 
-2. Label Studio Setup for Automated ML Labelling
+3. Label Studio Setup for Automated ML Labelling
     <ul>
     <li> Developed Code to support Yolov5 as a ML Backend for Automated ML labelling in Label Studio </li>
     <li> Integrated Yolov5 , OpenMMLab Object Detection models to LabelStudio ML Backend </li>
     <li> Wrote Scripts to run LabelStudio in a Colab leveraging Colab’s GPU working through a tunneled external url using Ngrok. </li>
     </ul>
     
-3. Website for Video Analytics
+4. Website for Video Analytics
     <ul>
     <li>Developing an Website where user can upload videos and select or upload pretrained models (Yolo, CLIP based formats) and get the results streamed on the same website with outputs labelled on the Video. </li>
     <li> Used Streamlit for Basic frontend, Model Runner API on backend which runs scripts according to the selection on UI. </li>
