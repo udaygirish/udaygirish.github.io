@@ -8,10 +8,11 @@ weight: 6
 # **About Me**
 
 Hi I am **{{ site.author.name }}** :wave:,<br>
-I currently work as a Machine learning engineer at Tiger Analytics. Most of my work is related to Machine learning, Deep learning, ML Engineering, MLOps, Reinforcement learning, Robotics. <br>
+I am an Incoming Robotics Graduate Student at Worcester Polytechnic Institute (WPI). Most of my work is related to Machine learning, Deep learning, ML Engineering, MLOps, Reinforcement learning, Robotics. <br>
 <br>
 Email: einsteingirish@gmail.com (For Casual Queries/ Work Related)\
 Alternate_Email : udaygirishm@gmail.com (For Academic Research)
+University Email: umaradana@wpi.edu
 <br>
 
 Want to know more about me or hire me then download resume [here](https://github.com/udaygirish/udaygirish.github.io/raw/master/assets/Uday_Girish_Maradana_Resume.pdf) :smiley: <br>
