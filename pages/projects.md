@@ -10,6 +10,7 @@ weight: 1
 ---
 ### **At Tiger Analytics**
 
+
 **MLOps Framework Dev for Unified DataScience Platform**
 <ul>
 <li>
@@ -21,6 +22,7 @@ Developed and deployed a MLOps framework for deploying Datascience models with e
 <li>
 Developed a Organizational flow for the client to onboard new datascientists to get familiar with framework and reduce their model development and deployment time by more than 75 % (Almost from 4 Weeks to 7 Working Days)
 </li>
+</ul>
 
 **MLOps Pipeline Dev for Price Elasticity**
 <ul>
@@ -74,11 +76,13 @@ Inference. (Elastic Inference, Nvidia Deepstream SDK, Triton Inference Server) <
    <ul>
    <li> Developed a end to end framework for aiding Medical practitioners to track different segments in ultrasound at a point level throughout the timeframe of a video</li>
    <li> This tool can provide real time plots of distance and angle between segments in 2D space and also gives the capability of doing further analysis with a single time run data. </li>
+   </ul>
 
 2. Knee Arthroscopy Tool
     <ul>
     <li> Developing a workflow with Tradtional and DL based CV to handle Image based relative measurements and transfer them to real world coordinates </li>
     <li> This tool helps in Surgeries as an aid to Surgeons to get relative real world estimates of the space on which they are performing the surgery  </li>
+    </ul>
 
 3. Label Studio Setup for Automated ML Labelling
     <ul>
@@ -122,6 +126,7 @@ Inference. (Elastic Inference, Nvidia Deepstream SDK, Triton Inference Server) <
     <ul>
     <li> Working on developing a platform to automate ticket generation for queries and complaints </li>
     <li> End to End platform to automate the Phone calls/messages received by a contact center and use AI for automatic ticket generation </li>
+    </ul>
 
 2. Virtual KYC: 
     <ul>
@@ -206,10 +211,10 @@ Inference. (Elastic Inference, Nvidia Deepstream SDK, Triton Inference Server) <
 2. Auto RC Car using Tiny ML (Ongoing) - Fun Project: 
     Integrating RC Car (1:10) with vision and sensory models and using Tiny ML for low-powered micro-controllers to understand the capability of edge computing.
         
-3. Robo DJ(ongoing) - Under Feasibility Check mode:
-    DJ with Deep Learning using Audio and vision-based architectures. Under literature review for getting domain knowledge for hybrid implementation.
+<!-- 3. Robo DJ(ongoing) - Under Feasibility Check mode:
+    DJ with Deep Learning using Audio and vision-based architectures. Under literature review for getting domain knowledge for hybrid implementation. -->
         
-4. Knee Rehabilitation System: 
+3. Knee Rehabilitation System: 
     
     Fabrication of a device with 2 DOF mechanism which can be used for performing Flexo-extension exercises can be used for Knee rehabilitation purposes.
 
@@ -219,30 +224,30 @@ Inference. (Elastic Inference, Nvidia Deepstream SDK, Triton Inference Server) <
 
 
         
-5. Online Shopping skillset for Alexa - NITCkathon.ai (24hr event)
+4. Online Shopping skillset for Alexa - NITCkathon.ai (24hr event)
         
     As part of NITC hackathon conducted by JMR InfoTech, worked as a 3-member team and developed a skillset for Amazon Alexa to understand different skills related to online shopping.
         
         
-6. RIGGU V2-The Semi Humanoid : 
+5. RIGGU V2-The Semi Humanoid : 
         
     A complete framework for the development of an Interactive Semi-Humanoid Robot using technologies like AI, NLP, ROS, SLAM.
             
     <iframe width="640" height="480" src="https://www.youtube.com/embed/rJtpveWpm8U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>   
 
 
-7. Quadcopter: 
+6. Quadcopter: 
     Autonomous Quadcopter based on PixHawk Flight controller integrated with a Raspberry Pi.
     <iframe src="https://player.vimeo.com/video/717149294?h=6fa04be482" width="640" height="480" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
     
     <iframe src="https://player.vimeo.com/video/717149263?h=f9cca6ee04" width="640" height="480" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-8. Hexacopter:  
+7. Hexacopter:  
     Hexacopter based on ARM and equipped with manual control. PID tuning was done for stability. This project involves the testing and performance analysis of hexacopter on PID and backstep algorithms.
 
     <iframe src="https://player.vimeo.com/video/717149217?h=d72ef18eed" width="640" height="480" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
         
-9. Robocon Bot:
+8. Robocon Bot:
         
     A manual bot that can throw disks at specified positions which were made by our Robotics Interest Group for National-level Robotics Competition called Robocon-2017.
         
