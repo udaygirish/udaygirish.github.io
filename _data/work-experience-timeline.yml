@@ -1,7 +1,7 @@
 - title: Graduate Researcher , Perception and Autonomous Robotics Group
   from: Aug 2023
   to: Present
-  image: ../assets/work_logos/Pear_WPI_Image_Logo.png
+  image: https://github.com/udaygirish/udaygirish.github.io/blob/master/assets/work_logos/Pear_WPI_Image_Logo.png
   description: Building an end-to-end pipeline for optical flow based on uncertainty to enable a quadrotor effectively avoid dynamic and static obstacles.
 
 
