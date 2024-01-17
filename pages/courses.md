@@ -69,14 +69,16 @@ Cloud Development  <br>
 
 <br> -->
 
+### Core Learnings - MS Robotics <br>
+<ul>
+<li> Motion Planning </li>
+<li> Robot Control </li>
+<li> Robot Dynamics </li>
+<li> Computer Vision </li>
+<li> Swarm Intelligence </li>
+<li> Reinforcement Learning </li>
+</ul><br>
 
-### Core Learnings - B.Tech  <br>
-<ul>    
-<li> Introduction to Robotics </li>      
-<li> Image Processing </li>   
-<li> Artificial Neural networks and Genetic Algorithms  </li>   
-<li> Control Systems and Algorithms </li> 
-<li> Mechanics and Dynamics </li> </ul> <br>
 
 ### Core Learnings - PGD <br>
 <ul>
@@ -87,3 +89,27 @@ Cloud Development  <br>
 <li> Deep learning </li>
 </ul>
 <br>
+
+### Core Learnings - B.Tech  <br>
+<ul>    
+<li> Introduction to Robotics </li>      
+<li> Image Processing </li>   
+<li> Artificial Neural networks and Genetic Algorithms  </li>   
+<li> Control Systems and Algorithms </li> 
+<li> Mechanics and Dynamics </li> </ul> <br>
+
+
+
+
+### Core Learnings - MA Philosophy <br>
+<ul>
+<li> Indian Philosophy </li>
+<li> Western Philosophy</li>
+<li> Philosophy of Technology </li>
+<li> Philosophy of Science and Cosmology </li>
+<li> Philosophy of Mind </li>
+<li> Ethics , Epistemology </li>
+<li> Philosophy of Art </li>
+<li> Aurobindo Philosophy - Spirituality </li>
+
+</ul> <br>
