@@ -40,13 +40,13 @@ weight: 1
 3. Indoor Robot Navigation - Motion Planning 
    Comparison of Traditional Planners such as RRT, A* with End to End learning approaches for Indoor Embodied navigation. \
    [Github Page](https://github.com/udaygirish/Embodied_Agent_Planning) | [Report](https://github.com/udaygirish/Embodied_Agent_Planning/blob/main/Motion_planning_project_Report.pdf) 
-    ![](https://github.com/udaygirish.github.io/raw/master/assets/rl_tv.gif)
+    ![Indoor Nav Animation](https://raw.githubusercontent.com/udaygirish/udaygirish.github.io/master/assets/rl_tv.gif)
 
 4. 3R Link Manipulator - Manipulation and Dynamic Analysis
-   Design and detailed analysis of a 3 R Link Robot which can reach specified positions in the Workspace.
+   Design and detailed analysis of a 3 R Link Robot which can reach specified positions in the Workspace. \
    [Github Page](https://github.com/udaygirish/3link_manipulator_dynamics) | [Report](https://github.com/udaygirish/3link_manipulator_dynamics/blob/main/Report/RBE501_ProjectReport.pdf)
 
-   ![](https://github.com/udaygirish.github.io/raw/master/assets/3r_robot_arm_animation.gif)
+   ![Robot Arm Animation](https://raw.githubusercontent.com/udaygirish/udaygirish.github.io/master/assets/3r_robot_arm_animation.gif)
 
 5. Knee Rehabilitation System: 
     
