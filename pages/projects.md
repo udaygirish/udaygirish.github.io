@@ -10,7 +10,7 @@ weight: 1
 ---
 ---
 ### **At ELPIS Lab - WPI**
-##### Advisor: Prof. Constantinos Chamzas
+###### Advisor: Prof. Constantinos Chamzas
 <ul>
 <li>  Researching End-End Reinforcement learning approaches for Robot Gripper Grasping and Manipulation.
 </li>
