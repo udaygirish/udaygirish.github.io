@@ -25,7 +25,6 @@ weight: 1
 </ul>
 
 ---
----
 ## **Projects - Academic/Personal**
 ---
 ---
@@ -36,10 +35,7 @@ weight: 1
         
 2. Auto RC Car using Tiny ML (Ongoing) - Fun Project: 
     Integrating RC Car (1:10) with vision and sensory models and using Tiny ML for low-powered micro-controllers to understand the capability of edge computing.
-        
-<!-- 3. Robo DJ(ongoing) - Under Feasibility Check mode:
-    DJ with Deep Learning using Audio and vision-based architectures. Under literature review for getting domain knowledge for hybrid implementation. -->
-        
+    
 3. Knee Rehabilitation System: 
     
     Fabrication of a device with 2 DOF mechanism which can be used for performing Flexo-extension exercises can be used for Knee rehabilitation purposes.
@@ -47,7 +43,6 @@ weight: 1
     Hip Flexo Extension | Knee Flexo Extension
     :---------------:|:--------------------:
     ![](https://github.com/udaygirish/udaygirish.github.io/raw/master/assets/hipflexoextension.JPG)|![](https://github.com/udaygirish/udaygirish.github.io/raw/master/assets/kneeflexoextension2.JPG)
-
 
         
 4. Online Shopping skillset for Alexa - NITCkathon.ai (24hr event)
@@ -78,3 +73,7 @@ weight: 1
     A manual bot that can throw disks at specified positions which were made by our Robotics Interest Group for National-level Robotics Competition called Robocon-2017.
         
     ![Robocon_Image.jpg](https://github.com/udaygirish/udaygirish.github.io/raw/master/assets/Robocon_Image.jpg)
+
+
+<!-- 3. Robo DJ(ongoing) - Under Feasibility Check mode:
+    DJ with Deep Learning using Audio and vision-based architectures. Under literature review for getting domain knowledge for hybrid implementation. -->  
