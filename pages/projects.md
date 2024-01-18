@@ -52,15 +52,16 @@ weight: 1
    Catching UAV's in a space with a Drone using LQR Control Strategy.
    [Github Page](https://github.com/udaygirish/quadrotor_lqr_basic) | [Report](https://github.com/udaygirish/quadrotor_lqr_basic/blob/main/Report.pdf)
 
-   ![Robot Control Project](https://raw.githubusercontent.com/udaygirish/udaygirish.github.io/master/assets/Robot_Control_Project.png)
+   <img src="https://raw.githubusercontent.com/udaygirish/udaygirish.github.io/master/assets/Robot_Control_Project.png" alt="Alien Catcher" style="transform: rotate(0deg); width:250px;">
 
-7. Multi Class Classification on Large Number of Classes \
+
+6. Multi Class Classification on Large Number of Classes \
    Part of Minor Thesis project - Post Graduate Diploma. This Project involves trying to get the State of the Art (SOTA) accuracy on Cdiscount dataset. Explored multiple models such as Efficient Net, ResNet etc.
     [Github Page](https://github.com/udaygirish/cdiscount_challenge_code/tree/main) | [Report](https://github.com/udaygirish/cdiscount_challenge_code/blob/main/Applied_AI_Proj_Document_Total.pdf)
 
-   ![Robot Control Project](https://github.com/udaygirish/cdiscount_challenge_code/raw/main/data/readme_imgs/streamlit_demo.png)
+    <img src="https://github.com/udaygirish/cdiscount_challenge_code/raw/main/data/readme_imgs/streamlit_demo.png" alt="PG Diploma Thesis" style="transform: rotate(0deg); width:250px;">
 
-8. Knee Rehabilitation System: 
+7. Knee Rehabilitation System: 
     
     Fabrication of a device with 2 DOF mechanism which can be used for performing Flexo-extension exercises can be used for Knee rehabilitation purposes.
 
@@ -69,29 +70,29 @@ weight: 1
     ![](https://github.com/udaygirish/udaygirish.github.io/raw/master/assets/hipflexoextension.JPG)|![](https://github.com/udaygirish/udaygirish.github.io/raw/master/assets/kneeflexoextension2.JPG)
 
         
-9.  Online Shopping skillset for Alexa - NITCkathon.ai (24hr event)
+8.  Online Shopping skillset for Alexa - NITCkathon.ai (24hr event)
         
     As part of NITC hackathon conducted by JMR InfoTech, worked as a 3-member team and developed a skillset for Amazon Alexa to understand different skills related to online shopping.
         
         
-10. RIGGU V2-The Semi Humanoid : 
+9.  RIGGU V2-The Semi Humanoid : 
         
     A complete framework for the development of an Interactive Semi-Humanoid Robot using technologies like AI, NLP, ROS, SLAM.
             
     <iframe width="640" height="480" src="https://www.youtube.com/embed/rJtpveWpm8U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>   
 
-11. Quadcopter: 
+10. Quadcopter: 
     Autonomous Quadcopter based on PixHawk Flight controller integrated with a Raspberry Pi.
     <iframe src="https://player.vimeo.com/video/717149294?h=6fa04be482" width="640" height="480" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
     
     <iframe src="https://player.vimeo.com/video/717149263?h=f9cca6ee04" width="640" height="480" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-12. Hexacopter:  
+11. Hexacopter:  
     Hexacopter based on ARM and equipped with manual control. PID tuning was done for stability. This project involves the testing and performance analysis of hexacopter on PID and backstep algorithms.
 
     <iframe src="https://player.vimeo.com/video/717149217?h=d72ef18eed" width="640" height="480" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
         
-13. Robocon Bot:
+12. Robocon Bot:
         
     A manual bot that can throw disks at specified positions which were made by our Robotics Interest Group for National-level Robotics Competition called Robocon-2017.
         
