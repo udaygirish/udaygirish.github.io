@@ -2,7 +2,7 @@
 layout: page
 title: Courses
 permalink: /courses/
-weight: 3
+weight: 4
 ---
 ### Professional Certifications 
 <ul>
