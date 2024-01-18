@@ -18,7 +18,7 @@ weight: 1
 
 ---
 ### **At Perception and Autonomous Robotics Group (PeAR) - WPI**
-###### Advisor: Prof. Nitin J Sanket
+###### Advisor: Prof. Nitin J Sanket - [Group Link](https://pear.wpi.edu) 
 <ul>
 <li> Researching Optical flow methods for Navigation of Mini Drones in Complex navigation scnearios.
 </li>
@@ -33,11 +33,22 @@ weight: 1
         
     Development of an Autonomous bot using ROS, Object Detection, Lane Detection, and path planning using Jetson Nano, RPI4 with a night vision system implemented.
 <img src="https://github.com/udaygirish/udaygirish.github.io/raw/master/assets/ROSX3Master_Robot.png" alt="ROSX3 Robot" style="transform: rotate(-30deg); width:250px;">
-        
-1. Auto RC Car using Tiny ML (Ongoing) - Fun Project: 
+
+2. Auto RC Car using Tiny ML (Ongoing) - Fun Project: 
     Integrating RC Car (1:10) with vision and sensory models and using Tiny ML for low-powered micro-controllers to understand the capability of edge computing.
 
-2. Knee Rehabilitation System: 
+3. Indoor Robot Navigation - Motion Planning 
+   Comparison of Traditional Planners such as RRT, A* with End to End learning approaches for Indoor Embodied navigation. \
+   [Github Page](https://github.com/udaygirish/Embodied_Agent_Planning) | [Report](https://github.com/udaygirish/Embodied_Agent_Planning/blob/main/Motion_planning_project_Report.pdf) 
+    ![](https://github.com/udaygirish.github.io/raw/master/assets/rl_tv.gif)
+
+4. 3R Link Manipulator - Manipulation and Dynamic Analysis
+   Design and detailed analysis of a 3 R Link Robot which can reach specified positions in the Workspace.
+   [Github Page](https://github.com/udaygirish/3link_manipulator_dynamics) | [Report](https://github.com/udaygirish/3link_manipulator_dynamics/blob/main/Report/RBE501_ProjectReport.pdf)
+
+   ![](https://github.com/udaygirish.github.io/raw/master/assets/3r_robot_arm_animation.gif)
+
+5. Knee Rehabilitation System: 
     
     Fabrication of a device with 2 DOF mechanism which can be used for performing Flexo-extension exercises can be used for Knee rehabilitation purposes.
 
@@ -46,30 +57,29 @@ weight: 1
     ![](https://github.com/udaygirish/udaygirish.github.io/raw/master/assets/hipflexoextension.JPG)|![](https://github.com/udaygirish/udaygirish.github.io/raw/master/assets/kneeflexoextension2.JPG)
 
         
-3. Online Shopping skillset for Alexa - NITCkathon.ai (24hr event)
+6. Online Shopping skillset for Alexa - NITCkathon.ai (24hr event)
         
     As part of NITC hackathon conducted by JMR InfoTech, worked as a 3-member team and developed a skillset for Amazon Alexa to understand different skills related to online shopping.
         
         
-4. RIGGU V2-The Semi Humanoid : 
+7. RIGGU V2-The Semi Humanoid : 
         
     A complete framework for the development of an Interactive Semi-Humanoid Robot using technologies like AI, NLP, ROS, SLAM.
             
     <iframe width="640" height="480" src="https://www.youtube.com/embed/rJtpveWpm8U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>   
 
-
-6. Quadcopter: 
+8.  Quadcopter: 
     Autonomous Quadcopter based on PixHawk Flight controller integrated with a Raspberry Pi.
     <iframe src="https://player.vimeo.com/video/717149294?h=6fa04be482" width="640" height="480" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
     
     <iframe src="https://player.vimeo.com/video/717149263?h=f9cca6ee04" width="640" height="480" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-7. Hexacopter:  
+9. Hexacopter:  
     Hexacopter based on ARM and equipped with manual control. PID tuning was done for stability. This project involves the testing and performance analysis of hexacopter on PID and backstep algorithms.
 
     <iframe src="https://player.vimeo.com/video/717149217?h=d72ef18eed" width="640" height="480" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
         
-8. Robocon Bot:
+10. Robocon Bot:
         
     A manual bot that can throw disks at specified positions which were made by our Robotics Interest Group for National-level Robotics Competition called Robocon-2017.
         
