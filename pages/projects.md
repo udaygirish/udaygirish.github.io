@@ -32,11 +32,12 @@ weight: 1
 1. Autonomous Bot-v1 using DL and ROS(Ongoing) - Fun Project: 
         
     Development of an Autonomous bot using ROS, Object Detection, Lane Detection, and path planning using Jetson Nano, RPI4 with a night vision system implemented.
+<img src="https://github.com/udaygirish/udaygirish.github.io/raw/master/assets/ROSX3Master_Robot.png" alt="ROSX3 Robot" style="transform: rotate(30deg);">
         
-2. Auto RC Car using Tiny ML (Ongoing) - Fun Project: 
+1. Auto RC Car using Tiny ML (Ongoing) - Fun Project: 
     Integrating RC Car (1:10) with vision and sensory models and using Tiny ML for low-powered micro-controllers to understand the capability of edge computing.
-    
-3. Knee Rehabilitation System: 
+
+2. Knee Rehabilitation System: 
     
     Fabrication of a device with 2 DOF mechanism which can be used for performing Flexo-extension exercises can be used for Knee rehabilitation purposes.
 
@@ -45,12 +46,12 @@ weight: 1
     ![](https://github.com/udaygirish/udaygirish.github.io/raw/master/assets/hipflexoextension.JPG)|![](https://github.com/udaygirish/udaygirish.github.io/raw/master/assets/kneeflexoextension2.JPG)
 
         
-4. Online Shopping skillset for Alexa - NITCkathon.ai (24hr event)
+3. Online Shopping skillset for Alexa - NITCkathon.ai (24hr event)
         
     As part of NITC hackathon conducted by JMR InfoTech, worked as a 3-member team and developed a skillset for Amazon Alexa to understand different skills related to online shopping.
         
         
-5. RIGGU V2-The Semi Humanoid : 
+4. RIGGU V2-The Semi Humanoid : 
         
     A complete framework for the development of an Interactive Semi-Humanoid Robot using technologies like AI, NLP, ROS, SLAM.
             
