@@ -9,18 +9,21 @@ weight: 1
 
 ---
 ### **At ELPIS Lab - WPI**
-#### Advisor: Prof. Constantinos Chamzas
+##### Advisor: Prof. Constantinos Chamzas
 <ul>
 <li>  Researching End-End Reinforcement learning approaches for Robot Gripper Grasping and Manipulation.
 </li>
 </ul>
 
+---
 ### **At Perception and Autonomous Robotics Group (PeAR) - WPI**
-#### Advisor: Prof. Nitin J Sanket
+###### Advisor: Prof. Nitin J Sanket
 <ul>
 <li> Researching Optical flow methods for Navigation of Mini Drones in Complex navigation scnearios.
 </li>
 </ul>
+
+---
 
 ### **At Tiger Analytics**
 
