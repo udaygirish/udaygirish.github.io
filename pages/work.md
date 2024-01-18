@@ -6,6 +6,8 @@ weight: 2
 ---
 
 ## **Projects - Professional /Internships**
+---
+---
 
 ### **At Tiger Analytics**
 
@@ -217,7 +219,7 @@ Inference. (Elastic Inference, Nvidia Deepstream SDK, Triton Inference Server) <
 - Software Engineering
 - Mechatronics
 
-**Responsibilities:** 
+**Previous Responsibilities:** 
 
 - Exploration of SOTA Models
 - Research Paper reading

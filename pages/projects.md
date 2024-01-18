@@ -7,7 +7,8 @@ weight: 1
 
 
 ## **Active Research**
-
+---
+---
 ### **At ELPIS Lab - WPI**
 ##### Advisor: Prof. Constantinos Chamzas
 <ul>
@@ -25,8 +26,9 @@ weight: 1
 
 ---
 ---
-
 ## **Projects - Academic/Personal**
+---
+---
     
 1. Autonomous Bot-v1 using DL and ROS(Ongoing) - Fun Project: 
         
