@@ -57,9 +57,11 @@ weight: 1
 
 6. Multi Class Classification on Large Number of Classes \
    Part of Minor Thesis project - Post Graduate Diploma. This Project involves trying to get the State of the Art (SOTA) accuracy on Cdiscount dataset. Explored multiple models such as Efficient Net, ResNet etc. \
-    [Github Page](https://github.com/udaygirish/cdiscount_challenge_code/tree/main) | [Report](https://github.com/udaygirish/cdiscount_challenge_code/blob/main/Applied_AI_Proj_Document_Total.pdf)
+    [Github Page](https://github.com/udaygirish/cdiscount_challenge_code/tree/main) | [Report](https://github.com/udaygirish/cdiscount_challenge_code/blob/main/Applied_AI_Proj_Document_Total.pdf) | [Live Deploymnent](http://47.14.90.160:8051/) 
 
     <img src="https://github.com/udaygirish/cdiscount_challenge_code/raw/main/data/readme_imgs/streamlit_demo.png" alt="PG Diploma Thesis" style="transform: rotate(0deg); width:250px;">
+
+
 
 7. Knee Rehabilitation System: 
     
