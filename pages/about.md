@@ -15,7 +15,7 @@ Alternate_Email : udaygirishm@gmail.com (For Academic Research)
 University Email: umaradana@wpi.edu
 <br>
 
-Want to know more about me or hire me then download CV [here](https://github.com/udaygirish/udaygirish.github.io/raw/master/assets/Uday_Girish_Maradana_CV.pdf) :smiley: <br>
+Want to know more about me or hire me then download CV [here](https://github.com/udaygirish/udaygirish.github.io/raw/master/assets/Uday_Girish_Maradana_Resume.pdf) :smiley: <br>
  
 <!---
 Resume - (https://github.com/udaygirish/udaygirish.github.io/raw/master/assets/Uday_Girish_Maradana_.pdf)
