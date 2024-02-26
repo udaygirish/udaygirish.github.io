@@ -29,11 +29,11 @@ weight: 1
     
 1. Autonomous Bot-v1 using DL and ROS(Ongoing) - Fun Project \
     Development of an Autonomous bot using ROS, Object Detection, Lane Detection, and path planning using Jetson Nano, RPI4 with a night vision system implemented.
-<img src="https://github.com/udaygirish/udaygirish.github.io/raw/master/assets/ROSX3Master_Robot.png" alt="ROSX3 Robot" style="transform: rotate(-30deg); width:250px;">
+    <img src="https://github.com/udaygirish/udaygirish.github.io/raw/master/assets/ROSX3Master_Robot.png" alt="ROSX3 Robot" style="transform: rotate(-30deg); width:250px;">
 
 2. Auto RC Car using Tiny ML (Ongoing) - Fun Project: \
     Integrating RC Car (1:10) with vision and sensory models and using Tiny ML for low-powered micro-controllers to understand the capability of edge computing.
-<img src="https://github.com/udaygirish/udaygirish.github.io/raw/master/assets/ackerman_bot.jpg" alt="ROSX3 Robot" style="transform: rotate(-10deg); width:250px;">
+    <img src="https://github.com/udaygirish/udaygirish.github.io/raw/master/assets/ackerman_bot.jpg" alt="ROSX3 Robot" style="transform: rotate(-10deg); width:250px;">
 
 1. Indoor Robot Navigation - Motion Planning  \
    Comparison of Traditional Planners such as RRT, A* with End to End learning approaches for Indoor Embodied navigation. \
