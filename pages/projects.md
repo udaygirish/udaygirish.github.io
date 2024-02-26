@@ -11,24 +11,16 @@ weight: 1
 ---
 ### **At ELPIS Lab - WPI**
 ###### Advisor: Prof. Constantinos Chamzas
-<ul>
-<li>  Researching End-End Reinforcement learning approaches for Robot Gripper Grasping and Manipulation.
-</li>
-</ul>
+- Researching End-End Reinforcement learning approaches for Robot Gripper Grasping and Manipulation.
 
 ---
 ### **At Perception and Autonomous Robotics Group (PeAR) - WPI**
 ###### Advisor: Prof. Nitin J Sanket - [Group Link](https://pear.wpi.edu) 
-<ul>
-<li> Researching Optical flow methods for Navigation of Mini Drones in Complex navigation scnearios.
-<li> Submitted Work to IEEE RAL.
-</li>
-</ul>
-
-[Paper Website Link](https://pear.wpi.edu/research/minnav.html)
+- Researching Optical flow methods for Navigation of Mini Drones in Complex navigation scnearios.
+- Submitted Work to IEEE RAL.
+- [Paper Website Link](https://pear.wpi.edu/research/minnav.html)
 
 ![Min Nav](https://github.com/udaygirish/udaygirish.github.io/raw/master/assets/MinNav_Paper_Image.png)
-
 
 ---
 ## **Projects - Academic/Personal**
