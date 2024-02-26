@@ -33,13 +33,14 @@ weight: 1
 
 2. Auto RC Car using Tiny ML (Ongoing) - Fun Project: \
     Integrating RC Car (1:10) with vision and sensory models and using Tiny ML for low-powered micro-controllers to understand the capability of edge computing.
+<img src="https://github.com/udaygirish/udaygirish.github.io/raw/master/assets/ackerman_bot.jpg" alt="ROSX3 Robot" style="transform: rotate(-30deg); width:250px;">
 
-3. Indoor Robot Navigation - Motion Planning  \
+1. Indoor Robot Navigation - Motion Planning  \
    Comparison of Traditional Planners such as RRT, A* with End to End learning approaches for Indoor Embodied navigation. \
    [Github Page](https://github.com/udaygirish/Embodied_Agent_Planning) | [Report](https://github.com/udaygirish/Embodied_Agent_Planning/blob/main/Motion_planning_project_Report.pdf) 
     ![Indoor Nav Animation](https://raw.githubusercontent.com/udaygirish/udaygirish.github.io/master/assets/rl_tv.gif)
 
-4. 3R Link Manipulator - Manipulation and Dynamic Analysis \
+2. 3R Link Manipulator - Manipulation and Dynamic Analysis \
    Design and detailed analysis of a 3 R Link Robot which can reach specified positions in the Workspace. \
    [Github Page](https://github.com/udaygirish/3link_manipulator_dynamics) | [Report](https://github.com/udaygirish/3link_manipulator_dynamics/blob/main/Report/RBE501_ProjectReport.pdf)
 
