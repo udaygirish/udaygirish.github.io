@@ -25,9 +25,9 @@ weight: 1
 </li>
 </ul>
 
-[Paper Web Link](https://pear.wpi.edu/research/minnav.html)
+[Paper Website Link](https://pear.wpi.edu/research/minnav.html)
 
-<img src="https://github.com/udaygirish/udaygirish.github.io/raw/master/assets/MinNav_Paper_Image.png" alt="MinNav Paper" style="transform: rotate(0deg); width:250px;">
+![Min Nav](https://github.com/udaygirish/udaygirish.github.io/raw/master/assets/MinNav_Paper_Image.png)
 
 
 ---
