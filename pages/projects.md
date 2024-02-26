@@ -21,8 +21,14 @@ weight: 1
 ###### Advisor: Prof. Nitin J Sanket - [Group Link](https://pear.wpi.edu) 
 <ul>
 <li> Researching Optical flow methods for Navigation of Mini Drones in Complex navigation scnearios.
+<li> Submitted Work to IEEE RAL.
 </li>
 </ul>
+
+[Paper Web Link](https://pear.wpi.edu/research/minnav.html)
+
+<img src="https://github.com/udaygirish/udaygirish.github.io/raw/master/assets/MinNav_Paper_Image.png" alt="MinNav Paper" style="transform: rotate(0deg); width:250px;">
+
 
 ---
 ## **Projects - Academic/Personal**
