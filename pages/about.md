@@ -8,7 +8,7 @@ weight: 7
 # **About Me**
 
 Hi I am **{{ site.author.name }}** :wave:,<br>
-I am an Incoming Robotics Graduate Student at Worcester Polytechnic Institute (WPI). Most of my work is related to Machine learning, Deep learning, ML Engineering, MLOps, Reinforcement learning, Robotics. <br>
+I am an Robotics Graduate Student at Worcester Polytechnic Institute (WPI). Most of my work is related to Machine learning, Deep learning, ML Engineering, MLOps, Reinforcement learning, Robotics. <br>
 <br>
 Email: einsteingirish@gmail.com (For Casual Queries/ Work Related)\
 Alternate_Email : udaygirishm@gmail.com (For Academic Research)
