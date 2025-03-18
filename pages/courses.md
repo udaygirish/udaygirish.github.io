@@ -77,6 +77,7 @@ Cloud Development  <br>
 <li> Computer Vision </li>
 <li> Swarm Intelligence </li>
 <li> Reinforcement Learning </li>
+<li> Project Management </li>
 </ul><br>
 
 

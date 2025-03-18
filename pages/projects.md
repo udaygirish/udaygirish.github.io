@@ -13,6 +13,14 @@ weight: 1
 ###### Advisor: Prof. Constantinos Chamzas
 - Researching End-End Reinforcement learning approaches for Robot Gripper Grasping and Manipulation.
 
+Pick and Place on UR10 (With Vision)
+
+
+One more Robot I work with
+
+
+
+
 ---
 ### **At Perception and Autonomous Robotics Group (PeAR) - WPI**
 ###### Advisor: Prof. Nitin J Sanket - [Group Link](https://pear.wpi.edu) 

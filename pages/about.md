@@ -16,6 +16,16 @@ University Email: umaradana@wpi.edu
 <br>
 
 Want to know more about me or hire me then download CV [here](https://github.com/udaygirish/udaygirish.github.io/raw/master/assets/Uday_Girish_Maradana_Resume.pdf) :smiley: <br>
+
+
+### Me with my Own Robots
+
+
+### Me with Robots in MS
+
+
+
+### Me with Robots in Undergrad
  
 <!---
 Resume - (https://github.com/udaygirish/udaygirish.github.io/raw/master/assets/Uday_Girish_Maradana_.pdf)
