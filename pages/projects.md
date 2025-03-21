@@ -13,13 +13,11 @@ weight: 1
 ###### Advisor: Prof. Constantinos Chamzas
 - Researching End-End Reinforcement learning approaches for Robot Gripper Grasping and Manipulation.
 
-Pick and Place on UR10 (With Vision)
+Pick and Place on UR10 (Language Grounded Vision)
+![UR10 Pick and Place](https://github.com/udaygirish/udaygirish.github.io/raw/master/assets/IMG_4316_GIF.gif)
 
-
-One more Robot I work with
-
-
-
+Another Robot I work with
+![Trossen Reactor X 200](https://github.com/udaygirish/udaygirish.github.io/raw/master/assets/IMG_4527_GIF.gif)
 
 ---
 ### **At Perception and Autonomous Robotics Group (PeAR) - WPI**
