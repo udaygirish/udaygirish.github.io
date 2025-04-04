@@ -7,6 +7,13 @@ weight: 3
 
 # **Publications**
 
+[An Artificial Intelligence Approach for Automated Dynamic Ultrasound Measurement in the Assessment of Patellar Instability" by He, Xingxin; Crasta, Nikitha; Maradana, Uday Girish; Varadarajan, Kartik Mangudi; Tanaka, Miho J.; Liu, Fang]() (In Review)
+<br>
+<ul>    
+This study introduces an AI-based Ultrasound Tracking System (AUTS) for dynamic assessment of patellofemoral joint function. Using SAM for segmentation and PIPs for point tracking, AUTS measures Medial Patellofemoral Distance (MPFD) frame-by-frame from ultrasound videos. Tested on 42 knees, AUTS showed strong agreement with manual measurements and provided additional metrics like MPFD velocity and acceleration, improving diagnostic reliability for patellar instability.
+</ul>
+<br>
+
 
 [Uday Girish, M et.al. ”RIGGU: A Semi-humanoid Robot Platform for Speech and Image Recognition” in
 Intelligent Systems, Technologies and Applications, 2020 (Springer)](https://link.springer.com/chapter/10.1007%2F978-981-15-3914-5_3)
