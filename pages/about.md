@@ -8,11 +8,10 @@ weight: 7
 # **About Me**
 
 Hi I am **{{ site.author.name }}** :wave:,<br>
-I am an Robotics Graduate Student at Worcester Polytechnic Institute (WPI). Most of my work is related to Machine learning, Deep learning, ML Engineering, MLOps, Reinforcement learning, Robotics. <br>
+I'm currently an Senior Machine Learning Engineer at [webAI](https://www.webai.com/). Most of my work is related to Machine learning, Deep learning, ML Engineering, MLOps, Reinforcement learning, Robotics. <br>
 <br>
 Email: einsteingirish@gmail.com (For Casual Queries/ Work Related)\
 Alternate_Email : udaygirishm@gmail.com (For Academic Research)
-University Email: umaradana@wpi.edu
 <br>
 
 To get a glimpse of my work please visit my [Portfolio](https://udaygirish.my.canva.site/) - a short 5 minute presentation. 
