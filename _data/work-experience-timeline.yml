@@ -1,8 +1,16 @@
-- title: Senior Machine Learning Engineer, webAI
-  from: May 2025
+
+- title: Senior Machine Learning Engineer, Tiger Analytics
+  from: Dec 2025
   to: Present
   image: 
-  description: Building and scaling ML solutions for webAI.
+  description: ML Engineering(Agents, RAGs, Digital Twins etc.) with primary focus on developing ML Platforms and ML Solutions
+              for Business use cases.
+
+- title: Senior Machine Learning Engineer, webAI
+  from: May 2025
+  to: Dec 2025
+  image: 
+  description: Building Private Intelligence for Enterprises (LLMs - opensource, RAGs, Agents etc.)
 
 - title: Graduate Researcher , ELPIS Lab
   from: Jan 2024
