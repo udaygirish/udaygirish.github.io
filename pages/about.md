@@ -14,7 +14,8 @@ Email: einsteingirish@gmail.com (For Casual Queries/ Work Related)\
 Alternate_Email : udaygirishm@gmail.com (For Academic Research)
 <br>
 
-New website is under construction :construction: https://new.udaygirish.com
+New website is under construction :construction: [new.udaygirish.com](https://new.udaygirish.com) \\
+
 To get a glimpse of my work please visit my [Portfolio](https://udaygirish.my.canva.site/) - a short 5 minute presentation. 
 
 Want to know more about me or hire me then download CV [here](https://github.com/udaygirish/udaygirish.github.io/raw/master/assets/Uday_Girish_Maradana_Resume.pdf) :smiley: <br>
